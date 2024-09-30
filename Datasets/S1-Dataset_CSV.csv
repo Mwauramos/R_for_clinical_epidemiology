@@ -1,0 +1,1909 @@
+ID,Village,age,gender,house_inhabitants,room_cohabitation,scabies_infestation,scabies_distribution_region,scabieslesions_number_range,impetigo_active,impetigolesions_number_range,impetigo_inactive,other_lesions
+60324,2,0,female,8,4,yes,2 3 5 7 8 9,?50,yes,11-49,no,no
+61175,8,0,male,5,3,yes,2 4 5 8 9,?50,yes,?50,no,no
+61225,8,0,male,2,2,no,,,yes,6-10,yes,no
+60839,6,0,female,14,3,yes,4 5,11-49,no,,no,no
+61006,7,0,female,11,3,yes,2 5 6 8 9,11-49,no,,no,no
+60697,4,0,male,7,3,yes,2 8 9,11-49,no,,no,no
+60645,4,0,male,10,10,yes,5 8 9,11-49,no,,no,no
+61399,8,0,male,6,6,yes,2 6 7,11-49,no,,no,no
+61464,9,0,male,6,3,yes,4 5,11-49,no,,no,no
+61761,10,0,male,8,2,yes,4 5,11-49,no,,no,no
+61901,10,0,male,5,3,yes,1 4 5 7 8 9,11-49,no,,no,no
+60818,6,0,female,5,2,yes,4 5,?10,no,,no,no
+60625,4,0,male,2,2,yes,3,?10,no,,no,no
+63017,10,0,female,4,2,yes,2 3 5,?50,no,,no,no
+60477,3,0,male,3,3,yes,1 2 3 7 8 9,?50,no,,no,no
+60335,2,0,female,6,3,no,,,no,,no,no
+60544,4,0,female,5,4,no,,,no,,yes,no
+60878,6,0,female,2,2,no,,,no,,no,no
+60955,6,0,female,5,2,no,,,no,,no,no
+61093,7,0,female,10,5,no,,,no,,no,no
+61214,8,0,female,6,5,no,,,no,,no,no
+61756,10,0,female,8,2,no,,,no,,no,no
+63021,10,0,female,6,3,no,,,no,,no,no
+63072,10,0,female,5,5,no,,,no,,no,no
+60410,3,0,male,3,3,no,,,no,,no,no
+60415,3,0,male,5,3,no,,,no,,yes,no
+60472,3,0,male,5,3,no,,,no,,no,no
+60498,3,0,male,8,2,no,,,no,,no,no
+60629,4,0,male,4,4,no,,,no,,no,no
+60632,4,0,male,5,2,no,,,no,,no,no
+60705,4,0,male,12,3,no,,,no,,no,no
+60780,5,0,male,7,3,no,,,no,,no,no
+60856,6,0,male,4,4,no,,,no,,no,no
+61234,8,0,male,6,4,no,,,no,,no,no
+61262,8,0,male,6,3,no,,,no,,no,no
+61324,8,0,male,4,4,no,,,no,,no,no
+61434,9,0,male,3,2,no,,,no,,no,no
+61455,9,0,male,4,4,no,,,no,,no,no
+61718,10,0,male,5,5,no,,,no,,no,no
+61760,10,0,male,8,2,no,,,no,,no,no
+61797,10,0,male,4,3,no,,,no,,no,no
+61243,8,1,female,6,4,yes,4 5 8 9,11-49,yes,11-49,yes,no
+61242,8,1,female,6,4,yes,5 8 9,11-49,yes,11-49,yes,no
+60814,6,1,male,7,3,yes,5 8 9,11-49,yes,11-49,no,no
+60604,4,1,male,10,5,yes,8 9,?10,yes,11-49,no,no
+60580,4,1,female,6,5,yes,3 8,11-49,yes,6-10,no,no
+61848,10,1,male,5,4,yes,8 9,11-49,yes,6-10,yes,no
+61846,10,1,male,4,2,yes,4 5 8 9,11-49,yes,6-10,yes,no
+61307,8,1,female,4,4,no,,,yes,11-49,yes,no
+61402,8,1,male,5,5,no,,,yes,6-10,yes,no
+61437,9,1,male,3,3,no,,,yes,6-10,yes,no
+61502,9,1,male,4,4,no,,,yes,6-10,no,no
+61860,10,1,male,5,3,no,,,yes,6-10,yes,no
+63048,10,1,female,6,3,no,,,yes,?5,yes,no
+60050,1,1,male,7,2,no,,,yes,?5,no,no
+60230,2,1,male,5,2,no,,,yes,?5,no,no
+60823,6,1,male,3,3,no,,,yes,?5,no,no
+61247,8,1,male,6,4,no,,,yes,?5,yes,no
+61311,8,1,male,5,4,no,,,yes,?5,no,no
+61440,9,1,male,5,5,no,,,yes,?5,yes,no
+61806,10,1,male,6,4,no,,,yes,?5,no,no
+60286,2,1,female,6,2,yes,5 8 9,11-49,no,,yes,no
+63061,10,1,female,8,2,yes,2 7 8 9,11-49,no,,no,no
+61060,7,1,male,9,3,yes,8 9,11-49,no,,no,no
+61356,8,1,male,5,3,yes,8 9,11-49,no,,yes,no
+61876,10,1,male,3,2,yes,4 8 9,11-49,no,,yes,no
+60208,2,1,female,8,3,yes,1 9,?10,no,,no,no
+60606,4,1,female,10,5,yes,8 9,?10,no,,no,no
+60621,4,1,male,4,2,yes,8 9,?10,no,,yes,no
+60693,4,1,male,8,2,yes,8 9,?10,no,,no,no
+60876,6,1,male,7,2,yes,4,?10,no,,no,no
+61036,7,1,male,3,2,yes,8 9,?10,no,,no,no
+61066,7,1,male,3,3,yes,8,?10,no,,yes,no
+61984,10,1,male,7,2,yes,4 5,?10,no,,no,no
+60520,4,1,female,6,3,no,,,no,,no,no
+60557,4,1,female,3,3,no,,,no,,yes,no
+60689,4,1,female,8,2,no,,,no,,no,no
+60746,4,1,female,11,6,no,,,no,,no,no
+60837,6,1,female,7,3,no,,,no,,no,no
+61034,7,1,female,8,2,no,,,no,,no,no
+61549,9,1,female,6,3,no,,,no,,no,no
+61822,10,1,female,6,3,no,,,no,,no,no
+60237,2,1,male,5,3,no,,,no,,no,no
+60331,2,1,male,5,3,no,,,no,,no,no
+60390,3,1,male,11,2,no,,,no,,no,no
+60395,3,1,male,11,2,no,,,no,,no,no
+60398,3,1,male,4,4,no,,,no,,no,no
+60443,3,1,male,4,4,no,,,no,,no,no
+60488,3,1,male,6,4,no,,,no,,no,no
+60764,5,1,male,6,3,no,,,no,,no,no
+60931,6,1,male,7,3,no,,,no,,no,no
+60926,6,1,male,5,3,no,,,no,,no,no
+61010,7,1,male,9,4,no,,,no,,no,no
+61023,7,1,male,3,2,no,,,no,,no,no
+61021,7,1,male,6,2,no,,,no,,no,no
+61077,7,1,male,5,3,no,,,no,,no,no
+61080,7,1,male,4,3,no,,,no,,no,no
+61316,8,1,male,6,3,no,,,no,,no,no
+61391,8,1,male,5,5,no,,,no,,yes,no
+61452,9,1,male,6,3,no,,,no,,yes,no
+61449,9,1,male,4,2,no,,,no,,yes,no
+61485,9,1,male,4,2,no,,,no,,no,no
+61665,9,1,male,6,2,no,,,no,,no,no
+61721,10,1,male,4,4,no,,,no,,no,no
+61911,10,1,male,6,3,no,,,no,,no,no
+61961,10,1,male,9,4,no,,,no,,no,no
+60519,4,2,male,6,3,yes,8 9,11-49,yes,11-49,yes,no
+61315,8,2,female,6,3,yes,8 9,?10,yes,11-49,yes,no
+61343,8,2,male,10,3,yes,4 5 7 8 9,?50,yes,11-49,yes,no
+61127,8,2,female,5,4,yes,4 5 8 9,11-49,yes,6-10,yes,no
+61427,9,2,female,10,3,yes,4 8 9,11-49,yes,6-10,yes,no
+61772,10,2,female,2,2,yes,5 8 9,11-49,yes,6-10,yes,no
+60323,2,2,male,8,4,yes,5 8 9,11-49,yes,6-10,yes,no
+60647,4,2,male,10,10,yes,8 9,?10,yes,6-10,yes,no
+60188,2,2,female,5,3,yes,2 5 7,11-49,yes,?5,no,no
+61868,10,2,female,9,2,yes,8 9,?10,yes,?5,yes,no
+61668,9,2,female,9,3,no,,,yes,11-49,yes,no
+60432,3,2,female,6,6,no,,,yes,6-10,yes,no
+60486,3,2,female,6,3,no,,,yes,6-10,yes,no
+61498,9,2,female,6,3,no,,,yes,6-10,no,no
+60342,3,2,male,7,5,no,,,yes,6-10,yes,no
+60382,3,2,male,2,2,no,,,yes,6-10,yes,no
+60788,6,2,male,5,3,no,,,yes,6-10,yes,no
+60791,6,2,male,5,3,no,,,yes,6-10,yes,no
+61147,8,2,male,5,2,no,,,yes,6-10,yes,no
+61161,8,2,male,8,2,no,,,yes,6-10,yes,no
+61472,9,2,male,5,5,no,,,yes,6-10,yes,no
+60232,2,2,female,7,7,no,,,yes,?5,yes,no
+60585,4,2,female,6,3,no,,,yes,?5,no,no
+61076,7,2,female,5,3,no,,,yes,?5,yes,no
+61519,9,2,female,10,3,no,,,yes,?5,no,no
+61608,9,2,female,5,4,no,,,yes,?5,no,no
+61630,9,2,female,4,3,no,,,yes,?5,no,no
+61644,9,2,female,4,2,no,,,yes,?5,no,no
+61648,9,2,female,4,2,no,,,yes,?5,no,no
+60200,2,2,male,3,1,no,,,yes,?5,yes,yes
+60301,3,2,male,6,6,no,,,yes,?5,yes,no
+60883,6,2,male,7,7,no,,,yes,?5,yes,no
+61329,8,2,male,6,3,no,,,yes,?5,no,no
+61808,10,2,male,3,3,no,,,yes,?5,yes,no
+61834,10,2,male,6,2,no,,,yes,?5,yes,no
+61894,10,2,male,3,3,no,,,yes,?5,yes,no
+60192,2,2,female,6,1,yes,8 9,11-49,no,,no,no
+60206,2,2,female,3,3,yes,9,?10,no,,yes,no
+60177,2,2,male,10,3,yes,9,?10,no,,yes,no
+61028,7,2,male,7,2,yes,8 9,?10,no,,yes,no
+61967,10,2,male,2,2,yes,8 9,?10,no,,yes,no
+61005,7,2,female,11,4,yes,3 4 7,?50,no,,yes,no
+60524,4,2,female,13,3,no,,,no,,no,no
+60745,4,2,female,11,6,no,,,no,,yes,no
+60768,5,2,female,5,2,no,,,no,,yes,no
+60916,6,2,female,7,5,no,,,no,,yes,no
+60960,6,2,female,9,3,no,,,no,,no,no
+60999,7,2,female,4,4,no,,,no,,yes,no
+61054,7,2,female,4,4,no,,,no,,yes,no
+61454,9,2,female,4,4,no,,,no,,yes,no
+61579,9,2,female,4,4,no,,,no,,yes,no
+61743,10,2,female,5,5,no,,,no,,no,no
+61816,10,2,female,10,5,no,,,no,,no,no
+61865,10,2,female,5,5,no,,,no,,yes,no
+63023,10,2,female,5,3,no,,,no,,no,no
+60133,1,2,male,4,4,no,,,no,,yes,no
+60150,1,2,male,6,2,no,,,no,,no,no
+60165,2,2,male,6,2,no,,,no,,yes,no
+60182,2,2,male,5,2,no,,,no,,yes,no
+60220,2,2,male,4,2,no,,,no,,no,no
+60296,3,2,male,4,4,no,,,no,,no,no
+60397,3,2,male,4,4,no,,,no,,no,no
+60474,3,2,male,5,4,no,,,no,,no,no
+60855,6,2,male,4,4,no,,,no,,no,no
+60945,6,2,male,4,2,no,,,no,,no,no
+60962,6,2,male,8,3,no,,,no,,no,no
+60990,7,2,male,9,4,no,,,no,,no,no
+61194,8,2,male,5,4,no,,,no,,no,no
+61233,8,2,male,6,4,no,,,no,,yes,no
+61275,8,2,male,3,3,no,,,no,,yes,no
+61269,8,2,male,6,4,no,,,no,,no,no
+61281,8,2,male,7,3,no,,,no,,no,no
+61346,8,2,male,6,4,no,,,no,,no,no
+61432,9,2,male,7,6,no,,,no,,no,no
+61558,9,2,male,3,3,no,,,no,,no,no
+61744,10,2,male,5,5,no,,,no,,no,no
+61919,10,2,male,5,2,no,,,no,,no,no
+61973,10,2,male,8,4,no,,,no,,yes,no
+60728,4,3,female,6,3,yes,4 5 7 8 9,11-49,yes,11-49,yes,no
+61081,7,3,female,4,3,yes,8 9,11-49,yes,11-49,yes,no
+61216,8,3,female,8,6,yes,4 5 8 9,11-49,yes,11-49,yes,no
+60968,6,3,male,3,3,yes,4 5 8 9,11-49,yes,11-49,yes,no
+60170,2,3,female,5,5,yes,5 7 9,11-49,yes,6-10,yes,no
+61533,9,3,male,6,3,yes,2 4 5 8 9,11-49,yes,6-10,yes,no
+61355,8,3,male,5,3,yes,8 9,?10,yes,6-10,yes,no
+61436,9,3,female,3,3,yes,8 9,11-49,yes,?5,no,no
+60744,4,3,male,11,6,yes,3 4 9,11-49,yes,?5,yes,no
+61004,7,3,male,11,3,yes,7,11-49,yes,?5,no,no
+61483,9,3,female,4,2,yes,9,?10,yes,?5,no,no
+60015,1,3,male,3,3,yes,5,?10,yes,?5,yes,no
+60457,3,3,male,5,2,yes,4,?10,yes,?5,yes,no
+60889,6,3,male,7,7,yes,5 8 9,?10,yes,?5,no,no
+61103,8,3,male,9,3,yes,8 9,?10,yes,?5,yes,no
+61462,9,3,male,6,3,yes,8 9,?10,yes,?5,yes,no
+60414,3,3,female,5,3,no,,,yes,11-49,no,no
+60222,2,3,female,3,3,no,,,yes,6-10,yes,no
+61607,9,3,female,5,4,no,,,yes,6-10,yes,no
+61647,9,3,female,4,2,no,,,yes,6-10,yes,no
+60358,3,3,male,6,2,no,,,yes,6-10,yes,no
+60540,4,3,male,4,4,no,,,yes,6-10,yes,no
+60873,6,3,male,4,4,no,,,yes,6-10,yes,no
+61092,7,3,male,10,5,no,,,yes,6-10,yes,no
+60708,4,3,female,12,4,no,,,yes,?5,yes,no
+60881,6,3,female,7,7,no,,,yes,?5,yes,no
+60911,6,3,female,11,3,no,,,yes,?5,yes,no
+60992,7,3,female,10,4,no,,,yes,?5,yes,no
+61069,7,3,female,5,2,no,,,yes,?5,yes,no
+61086,7,3,female,5,2,no,,,yes,?5,yes,no
+61261,8,3,female,6,3,no,,,yes,?5,yes,no
+61497,9,3,female,6,3,no,,,yes,?5,no,no
+61729,10,3,female,4,3,no,,,yes,?5,yes,no
+60030,1,3,male,4,4,no,,,yes,?5,yes,no
+60075,1,3,male,3,3,no,,,yes,?5,yes,no
+60603,4,3,male,10,5,no,,,yes,?5,yes,no
+60790,6,3,male,5,3,no,,,yes,?5,yes,no
+61444,9,3,male,4,2,no,,,yes,?5,yes,no
+61725,10,3,male,5,2,no,,,yes,?5,yes,yes
+61754,10,3,male,8,2,no,,,yes,?5,no,no
+61853,10,3,male,6,3,no,,,yes,?5,yes,no
+61976,10,3,male,7,3,no,,,yes,?5,yes,no
+60924,6,3,male,5,3,yes,4 5,11-49,no,,yes,no
+61546,9,3,male,4,2,yes,8 9,11-49,no,,yes,no
+60755,5,3,female,4,2,yes,8 9,?10,no,,no,no
+61856,10,3,female,3,3,yes,8 9,?10,no,,yes,no
+61900,10,3,female,5,3,yes,8 9,?10,no,,yes,no
+61952,10,3,female,9,3,yes,5 8 9,?10,no,,yes,no
+61032,7,3,male,7,3,yes,1,?10,no,,yes,no
+60124,1,3,female,8,4,no,,,no,,yes,yes
+60166,2,3,female,6,2,no,,,no,,yes,no
+60267,2,3,female,7,3,no,,,no,,yes,no
+60276,2,3,female,6,6,no,,,no,,yes,no
+60463,3,3,female,4,4,no,,,no,,no,no
+60509,3,3,female,7,4,no,,,no,,yes,yes
+60821,6,3,female,3,3,no,,,no,,yes,no
+60842,6,3,female,6,6,no,,,no,,yes,no
+60904,6,3,female,4,4,no,,,no,,yes,yes
+60929,6,3,female,7,3,no,,,no,,yes,no
+61009,7,3,female,9,4,no,,,no,,no,no
+61020,7,3,female,6,2,no,,,no,,no,no
+61102,8,3,female,9,3,no,,,no,,yes,yes
+61310,8,3,female,5,4,no,,,no,,no,no
+61398,8,3,female,6,6,no,,,no,,yes,no
+61426,8,3,female,7,3,no,,,no,,yes,no
+61451,9,3,female,6,3,no,,,no,,no,yes
+61663,9,3,female,6,2,no,,,no,,yes,no
+61749,10,3,female,5,5,no,,,no,,no,no
+61821,10,3,female,6,3,no,,,no,,no,no
+63014,10,3,female,3,3,no,,,no,,yes,no
+60379,3,3,male,6,4,no,,,no,,no,no
+60392,3,3,male,11,2,no,,,no,,yes,no
+60402,3,3,male,5,3,no,,,no,,no,no
+60578,4,3,male,6,3,no,,,no,,no,no
+60597,4,3,male,8,5,no,,,no,,no,no
+60733,4,3,male,2,2,no,,,no,,no,no
+60865,6,3,male,11,4,no,,,no,,no,yes
+61014,7,3,male,8,2,no,,,no,,yes,no
+61070,7,3,male,5,2,no,,,no,,yes,no
+61139,8,3,male,8,3,no,,,no,,yes,no
+61276,8,3,male,3,3,no,,,no,,yes,no
+60301,8,3,male,6,2,no,,,no,,no,no
+61578,9,3,male,4,4,no,,,no,,no,no
+61695,9,3,male,4,3,no,,,no,,yes,no
+61717,10,3,male,5,5,no,,,no,,yes,no
+61867,10,3,male,9,7,no,,,no,,yes,no
+61925,10,3,male,7,3,no,,,no,,yes,no
+62001,10,3,male,6,2,no,,,no,,no,no
+60590,4,4,male,7,4,yes,4 5 9,11-49,yes,11-49,no,no
+61207,8,4,female,6,6,yes,4 5,11-49,yes,6-10,yes,no
+61272,8,4,female,3,3,yes,7 8 9,11-49,yes,6-10,yes,no
+61713,10,4,female,15,2,yes,2 7,11-49,yes,6-10,yes,no
+60648,4,4,male,10,10,yes,4 5 8 9,11-49,yes,6-10,yes,no
+60806,6,4,male,3,3,yes,8 9,11-49,yes,6-10,yes,no
+61766,10,4,male,4,2,yes,3,11-49,yes,6-10,yes,no
+60244,2,4,female,3,3,yes,8 9,11-49,yes,?5,yes,no
+61215,8,4,female,6,5,yes,8 9,11-49,yes,?5,yes,no
+60543,4,4,male,5,4,yes,7 8 9,11-49,yes,?5,no,no
+60994,7,4,female,5,3,yes,4 5,?10,yes,?5,no,no
+60216,2,4,male,4,2,yes,8 9,?10,yes,?5,yes,no
+60630,4,4,male,8,3,no,,,yes,11-49,no,no
+61110,8,4,female,10,8,no,,,yes,6-10,yes,no
+61401,8,4,female,5,5,no,,,yes,6-10,yes,no
+61859,10,4,female,5,3,no,,,yes,6-10,yes,no
+60224,2,4,male,9,4,no,,,yes,6-10,no,no
+61336,8,4,male,5,4,no,,,yes,6-10,yes,no
+60810,6,4,female,6,3,no,,,yes,?5,yes,no
+61771,10,4,female,5,4,no,,,yes,?5,yes,no
+60225,2,4,male,9,4,no,,,yes,?5,yes,no
+60572,4,4,male,5,3,no,,,yes,?5,yes,no
+60703,4,4,male,12,4,no,,,yes,?5,no,no
+60858,6,4,male,3,3,no,,,yes,?5,yes,no
+60976,6,4,male,6,3,no,,,yes,?5,yes,no
+61193,8,4,male,5,4,no,,,yes,?5,yes,yes
+61211,8,4,male,6,2,no,,,yes,?5,yes,no
+61351,8,4,male,5,5,no,,,yes,?5,yes,no
+61478,9,4,female,5,2,yes,8 9,11-49,no,,yes,no
+61266,8,4,male,5,5,yes,8 9,11-49,no,,yes,no
+61918,10,4,female,5,2,yes,8 9,?10,no,,yes,no
+60284,2,4,male,6,2,yes,5,?10,no,,no,no
+63041,10,4,male,4,4,yes,8 9,?10,no,,yes,no
+60193,2,4,female,6,1,no,,,no,,yes,no
+60229,2,4,female,5,2,no,,,no,,yes,no
+60258,2,4,female,4,2,no,,,no,,no,no
+60339,3,4,female,4,4,no,,,no,,no,no
+60295,3,4,female,4,4,no,,,no,,no,no
+60393,3,4,female,11,2,no,,,no,,yes,no
+60523,4,4,female,13,3,no,,,no,,yes,no
+60555,4,4,female,3,3,no,,,no,,yes,no
+60587,4,4,female,6,3,no,,,no,,no,no
+60598,4,4,female,8,5,no,,,no,,yes,no
+60699,4,4,female,10,4,no,,,no,,yes,no
+60771,5,4,female,4,4,no,,,no,,yes,no
+60832,6,4,female,6,6,no,,,no,,yes,no
+60827,6,4,female,7,4,no,,,no,,yes,no
+61477,9,4,female,5,2,no,,,no,,yes,no
+61696,9,4,female,4,3,no,,,no,,no,no
+61934,10,4,female,4,3,no,,,no,,yes,no
+61983,10,4,female,7,2,no,,,no,,yes,no
+60128,1,4,male,8,4,no,,,no,,yes,yes
+60153,1,4,male,6,6,no,,,no,,no,no
+60219,2,4,male,4,3,no,,,no,,yes,no
+60239,2,4,male,3,3,no,,,no,,yes,no
+60247,2,4,male,7,3,no,,,no,,no,no
+60320,2,4,male,5,5,no,,,no,,no,no
+60364,3,4,male,4,2,no,,,no,,yes,no
+60583,4,4,male,6,5,no,,,no,,no,no
+60623,4,4,male,4,2,no,,,no,,yes,no
+60619,6,4,male,5,5,no,,,no,,yes,no
+61085,7,4,male,5,2,no,,,no,,yes,no
+61664,9,4,male,6,2,no,,,no,,yes,no
+61814,10,4,male,10,5,no,,,no,,no,no
+61960,10,4,male,9,4,no,,,no,,yes,no
+61341,8,5,male,10,3,yes,8 9,11-49,yes,11-49,yes,no
+61126,8,5,female,5,4,yes,5 9,?10,yes,11-49,yes,no
+61165,8,5,male,9,2,yes,5 8 9,?10,yes,11-49,yes,no
+61972,10,5,male,8,4,yes,2 5 9,11-49,yes,6-10,yes,no
+61174,8,5,female,5,3,yes,4 5 8 9,11-49,yes,?5,yes,no
+60549,4,5,male,3,3,yes,4 5 8 9,11-49,yes,?5,no,no
+60161,1,5,male,5,3,yes,8,?10,yes,?5,yes,no
+60310,3,5,male,4,2,yes,8 9,?10,yes,?5,no,no
+60835,6,5,male,7,3,yes,7 8 9,?10,yes,?5,yes,no
+61019,7,5,male,6,2,yes,3 4,?10,yes,?5,yes,no
+61135,8,5,male,3,2,yes,8,?10,yes,?5,yes,no
+61323,8,5,male,4,4,no,,,yes,11-49,yes,no
+61707,9,5,male,7,2,no,,,yes,11-49,yes,no
+61844,10,5,male,4,2,no,,,yes,11-49,yes,no
+60431,3,5,female,6,6,no,,,yes,6-10,yes,no
+60812,6,5,female,7,3,no,,,yes,6-10,yes,no
+61956,10,5,female,8,4,no,,,yes,6-10,yes,no
+60660,4,5,male,5,4,no,,,yes,6-10,no,no
+60831,6,5,male,6,6,no,,,yes,6-10,yes,no
+60864,6,5,male,11,4,no,,,yes,6-10,no,no
+61075,7,5,male,5,3,no,,,yes,6-10,yes,no
+61218,8,5,male,4,3,no,,,yes,6-10,yes,no
+60097,1,5,female,9,9,no,,,yes,?5,no,no
+60274,2,5,female,6,6,no,,,yes,?5,yes,no
+60302,3,5,female,6,6,no,,,yes,?5,yes,no
+60481,3,5,female,5,5,no,,,yes,?5,yes,no
+60759,5,5,female,6,6,no,,,yes,?5,no,no
+60948,6,5,female,7,4,no,,,yes,?5,yes,no
+61138,8,5,female,8,3,no,,,yes,?5,yes,no
+61146,8,5,female,5,2,no,,,yes,?5,yes,no
+60101,1,5,male,5,4,no,,,yes,?5,yes,no
+60113,1,5,male,5,4,no,,,yes,?5,yes,no
+60378,3,5,male,6,4,no,,,yes,?5,yes,no
+60702,4,5,male,12,4,no,,,yes,?5,yes,no
+60727,4,5,male,6,3,no,,,yes,?5,yes,no
+60868,6,5,male,7,3,no,,,yes,?5,yes,no
+60872,6,5,male,4,4,no,,,yes,?5,yes,no
+61091,7,5,male,10,5,no,,,yes,?5,yes,no
+61223,8,5,male,7,4,no,,,yes,?5,yes,no
+61431,9,5,male,7,6,no,,,yes,?5,yes,no
+61793,10,5,male,5,5,no,,,yes,?5,yes,no
+61892,10,5,male,4,4,no,,,yes,?5,yes,no
+63057,10,5,male,5,3,no,,,yes,?5,yes,no
+61757,10,5,male,8,4,no,,,yes,?5,yes,no
+61106,8,5,female,12,6,yes,5 9,11-49,no,,no,no
+61448,9,5,female,4,2,yes,5 8 9,11-49,no,,yes,no
+60658,4,5,male,6,2,yes,3 4 5 8 9,11-49,no,,yes,no
+60844,6,5,female,6,6,yes,4 5,?10,no,,yes,no
+61784,10,5,female,9,3,yes,8 9,?10,no,,yes,no
+60591,4,5,male,7,4,yes,4 5,?10,no,,no,no
+61008,7,5,male,9,4,yes,8 9,?10,no,,no,no
+60088,1,5,female,3,3,no,,,no,,yes,no
+60018,1,5,female,4,2,no,,,no,,no,yes
+60148,1,5,female,6,2,no,,,no,,yes,no
+60271,2,5,female,4,4,no,,,no,,no,no
+60413,3,5,female,5,3,no,,,no,,yes,no
+60507,3,5,female,7,4,no,,,no,,yes,no
+60529,4,5,female,4,4,no,,,no,,yes,no
+60659,4,5,female,6,4,no,,,no,,yes,no
+60661,4,5,female,5,3,no,,,no,,yes,no
+60789,6,5,female,5,3,no,,,no,,yes,no
+60903,6,5,female,4,4,no,,,no,,yes,no
+60910,6,5,female,11,3,no,,,no,,yes,no
+60923,6,5,female,5,3,no,,,no,,yes,no
+61108,8,5,female,9,3,no,,,no,,no,yes
+61210,8,5,female,6,2,no,,,no,,yes,no
+61387,8,5,female,6,6,no,,,no,,yes,no
+61390,8,5,female,5,2,no,,,no,,yes,no
+61389,8,5,female,5,5,no,,,no,,no,no
+61443,9,5,female,4,2,no,,,no,,yes,no
+61555,9,5,female,6,3,no,,,no,,yes,no
+61567,9,5,female,6,3,no,,,no,,yes,no
+61720,10,5,female,4,4,no,,,no,,yes,no
+61737,10,5,female,3,3,no,,,no,,yes,no
+61742,10,5,female,5,5,no,,,no,,yes,no
+63034,10,5,female,4,4,no,,,no,,yes,no
+60012,1,5,male,5,2,no,,,no,,no,no
+60091,1,5,male,6,4,no,,,no,,yes,no
+60259,2,5,male,4,1,no,,,no,,no,no
+60456,3,5,male,5,3,no,,,no,,yes,no
+60577,4,5,male,6,3,no,,,no,,yes,no
+60596,4,5,male,8,5,no,,,no,,yes,no
+60671,4,5,male,3,2,no,,,no,,yes,no
+60675,4,5,male,8,2,no,,,no,,yes,no
+60816,6,5,male,8,2,no,,,no,,yes,no
+60847,6,5,male,10,5,no,,,no,,yes,no
+60915,6,5,male,7,5,no,,,no,,yes,no
+61002,7,5,male,6,2,no,,,no,,yes,no
+61044,7,5,male,8,3,no,,,no,,yes,yes
+61030,7,5,male,7,3,no,,,no,,yes,no
+61160,8,5,male,8,2,no,,,no,,yes,no
+61232,8,5,male,6,4,no,,,no,,yes,no
+61292,8,5,male,6,6,no,,,no,,yes,no
+61405,8,5,male,6,2,no,,,no,,yes,no
+61440,9,5,male,5,5,no,,,no,,yes,no
+61969,10,5,male,8,3,no,,,no,,yes,no
+60750,5,6,female,4,2,yes,8 9,11-49,yes,11-49,yes,no
+61945,10,6,male,4,3,yes,2 4 5 8 9,?50,yes,11-49,yes,no
+61753,10,6,female,8,2,yes,8 9,?10,yes,6-10,yes,no
+60071,1,6,male,4,4,yes,9,?10,yes,6-10,yes,no
+60908,6,6,female,12,9,no,,,yes,6-10,yes,no
+61101,8,6,female,9,3,no,,,yes,6-10,no,no
+61370,8,6,female,7,7,no,,,yes,6-10,yes,no
+61683,9,6,female,10,4,no,,,yes,6-10,yes,no
+61820,10,6,female,7,3,no,,,yes,6-10,yes,no
+63032,10,6,female,4,4,no,,,yes,6-10,yes,no
+60052,1,6,male,8,3,no,,,yes,6-10,yes,no
+60502,3,6,male,4,2,no,,,yes,6-10,yes,no
+60958,6,6,male,5,5,no,,,yes,6-10,yes,no
+61141,8,6,male,3,2,no,,,yes,6-10,yes,no
+61145,8,6,male,5,2,no,,,yes,6-10,yes,no
+61181,8,6,male,10,8,no,,,yes,6-10,yes,no
+61268,8,6,male,6,4,no,,,yes,6-10,yes,no
+61597,9,6,male,5,2,no,,,yes,6-10,yes,no
+61636,9,6,male,5,5,no,,,yes,6-10,yes,no
+61748,10,6,male,5,5,no,,,yes,6-10,no,no
+61829,10,6,male,5,5,no,,,yes,6-10,yes,no
+61922,10,6,male,7,3,no,,,yes,6-10,yes,no
+60086,1,6,female,4,1,no,,,yes,?5,yes,no
+60126,1,6,female,6,4,no,,,yes,?5,yes,no
+60758,5,6,female,6,6,no,,,yes,?5,no,no
+60998,7,6,female,4,4,no,,,yes,?5,yes,no
+61013,7,6,female,8,2,no,,,yes,?5,yes,no
+61259,8,6,female,6,3,no,,,yes,?5,yes,no
+61378,8,6,female,7,2,no,,,yes,?5,yes,no
+61801,10,6,female,5,4,no,,,yes,?5,yes,no
+60027,1,6,male,7,2,no,,,yes,?5,yes,no
+60196,2,6,male,5,1,no,,,yes,?5,yes,no
+60361,3,6,male,3,3,no,,,yes,?5,yes,no
+60805,6,6,male,3,3,no,,,yes,?5,no,no
+60845,6,6,male,3,3,no,,,yes,?5,yes,no
+60867,6,6,male,7,2,no,,,yes,?5,yes,no
+61053,7,6,male,4,4,no,,,yes,?5,yes,no
+61290,8,6,male,6,2,no,,,yes,?5,yes,no
+61471,9,6,male,5,5,no,,,yes,?5,yes,no
+61701,9,6,male,8,4,no,,,yes,?5,yes,no
+62006,10,6,male,6,2,no,,,yes,?5,yes,no
+63012,10,6,male,10,4,no,,,yes,?5,yes,no
+63001,10,6,female,6,2,yes,3,11-49,no,,yes,no
+60291,2,6,male,5,3,yes,8 9,11-49,no,,yes,no
+61461,9,6,male,6,3,yes,8 9,11-49,no,,yes,no
+60982,6,6,female,9,3,yes,8 9,?10,no,,yes,no
+61916,10,6,female,6,3,yes,8 9,?10,no,,yes,no
+60203,2,6,male,10,3,yes,3,?10,no,,yes,no
+61188,8,6,male,8,4,yes,8,?10,no,,yes,no
+60125,1,6,female,6,4,no,,,no,,yes,yes
+60139,1,6,female,11,6,no,,,no,,no,no
+60174,2,6,female,12,3,no,,,no,,yes,no
+60250,2,6,female,9,4,no,,,no,,yes,yes
+60377,3,6,female,6,4,no,,,no,,yes,no
+60389,3,6,female,11,2,no,,,no,,yes,no
+60522,4,6,female,13,3,no,,,no,,yes,no
+60748,4,6,female,11,6,no,,,no,,yes,no
+60730,4,6,female,11,6,no,,,no,,yes,no
+60775,5,6,female,7,3,no,,,no,,yes,no
+60849,6,6,female,4,3,no,,,no,,yes,no
+60863,6,6,female,11,4,no,,,no,,no,yes
+60930,6,6,female,7,3,no,,,no,,yes,no
+61001,7,6,female,6,2,no,,,no,,yes,no
+61026,7,6,female,7,2,no,,,no,,no,no
+61340,8,6,female,10,3,no,,,no,,no,no
+61358,8,6,female,4,4,no,,,no,,yes,no
+61374,8,6,female,3,3,no,,,no,,no,no
+61662,9,6,female,6,2,no,,,no,,yes,no
+61716,10,6,female,5,5,no,,,no,,no,no
+60019,1,6,male,3,1,no,,,no,,no,no
+60070,1,6,male,7,4,no,,,no,,yes,no
+60190,2,6,male,6,1,no,,,no,,yes,no
+60480,3,6,male,5,5,no,,,no,,yes,no
+60628,4,6,male,4,4,no,,,no,,no,no
+60954,6,6,male,5,2,no,,,no,,no,no
+61280,8,6,male,6,3,no,,,no,,yes,no
+61320,8,6,male,8,4,no,,,no,,yes,no
+61805,10,6,male,6,4,no,,,no,,yes,no
+61842,10,6,male,4,4,no,,,no,,yes,no
+62003,10,6,male,5,2,no,,,no,,yes,no
+61105,8,7,female,12,6,yes,4 5 8 9,11-49,yes,11-49,yes,no
+61119,8,7,male,4,3,yes,4 5 8 9,11-49,yes,11-49,yes,no
+60880,6,7,female,7,7,yes,3,?10,yes,6-10,yes,no
+61955,10,7,female,9,4,yes,8 9,?10,yes,6-10,yes,no
+61826,10,7,female,8,4,yes,4 5 8,11-49,yes,?5,yes,no
+61031,7,7,male,7,3,yes,6,11-49,yes,?5,yes,no
+61724,10,7,male,5,2,yes,4 5 8 9,11-49,yes,?5,yes,no
+60140,1,7,female,11,6,yes,8,?10,yes,?5,yes,no
+61042,7,7,female,8,3,yes,8 9,?10,yes,?5,no,no
+60497,3,7,male,8,2,yes,8 9,?10,yes,?5,yes,no
+63011,10,7,male,10,4,yes,8 9,?10,yes,?5,yes,no
+61796,10,7,male,4,3,no,,,yes,11-49,yes,no
+60024,1,7,female,6,2,no,,,yes,6-10,yes,no
+60060,1,7,female,11,9,no,,,yes,6-10,yes,no
+60436,3,7,female,6,2,no,,,yes,6-10,yes,no
+60601,4,7,female,10,5,no,,,yes,6-10,yes,no
+60654,4,7,female,5,4,no,,,yes,6-10,yes,no
+61058,7,7,female,10,3,no,,,yes,6-10,yes,no
+61369,8,7,female,7,7,no,,,yes,6-10,yes,no
+60112,1,7,male,4,4,no,,,yes,6-10,yes,no
+61098,8,7,male,9,3,no,,,yes,6-10,yes,no
+61151,8,7,male,7,3,no,,,yes,6-10,yes,no
+61393,8,7,male,8,2,no,,,yes,6-10,yes,no
+61981,10,7,male,5,2,no,,,yes,6-10,yes,no
+62004,10,7,male,5,2,no,,,yes,6-10,yes,no
+60122,1,7,female,8,4,no,,,yes,?5,yes,no
+61090,7,7,female,10,5,no,,,yes,?5,yes,no
+61933,10,7,female,4,3,no,,,yes,?5,no,no
+60005,1,7,male,5,2,no,,,yes,?5,yes,no
+60034,1,7,male,6,3,no,,,yes,?5,yes,no
+60131,1,7,male,4,4,no,,,yes,?5,yes,no
+60180,2,7,male,5,2,no,,,yes,?5,yes,no
+60181,2,7,male,5,2,no,,,yes,?5,yes,no
+60198,2,7,male,3,3,no,,,yes,?5,no,no
+60284,2,7,male,6,2,no,,,yes,?5,no,no
+60455,3,7,male,5,3,no,,,yes,?5,yes,no
+60779,5,7,male,7,3,no,,,yes,?5,yes,no
+60794,6,7,male,10,3,no,,,yes,?5,yes,no
+61164,8,7,male,9,2,no,,,yes,?5,yes,no
+61417,8,7,male,8,4,no,,,yes,?5,yes,no
+61439,9,7,male,5,5,no,,,yes,?5,yes,no
+61682,9,7,male,10,4,no,,,yes,?5,yes,no
+61841,10,7,male,4,4,no,,,yes,?5,yes,no
+60838,6,7,female,14,3,yes,7 8,11-49,no,,yes,no
+61062,7,7,male,7,3,yes,8 9,11-49,no,,yes,no
+61813,10,7,male,10,5,yes,8 9,11-49,no,,yes,no
+61815,10,7,male,10,5,yes,8 9,11-49,no,,yes,no
+60093,1,7,female,8,4,yes,5 8,?10,no,,yes,no
+60433,3,7,female,7,7,yes,8 9,?10,no,,yes,no
+61422,8,7,female,8,4,yes,9,?10,no,,yes,no
+61852,10,7,male,7,3,yes,4 5,?10,no,,yes,no
+60159,1,7,female,4,2,no,,,no,,yes,no
+60256,1,7,female,5,3,no,,,no,,no,no
+60316,2,7,female,8,4,no,,,no,,yes,no
+60383,3,7,female,6,4,no,,,no,,yes,no
+60430,3,7,female,6,6,no,,,no,,yes,no
+60643,4,7,female,10,10,no,,,no,,yes,no
+61051,7,7,female,12,2,no,,,no,,yes,no
+61100,8,7,female,9,3,no,,,no,,yes,no
+61124,8,7,female,5,5,no,,,no,,yes,no
+61166,8,7,female,9,2,no,,,no,,yes,no
+61265,8,7,female,5,5,no,,,no,,yes,no
+61271,8,7,female,3,3,no,,,no,,yes,no
+61314,8,7,female,6,3,no,,,no,,yes,no
+61591,9,7,female,17,5,no,,,no,,yes,no
+63007,10,7,female,6,3,no,,,no,,yes,no
+63064,10,7,female,6,3,no,,,no,,yes,no
+60090,1,7,male,8,4,no,,,no,,yes,no
+60135,1,7,male,4,2,no,,,no,,yes,no
+60145,1,7,male,6,2,no,,,no,,yes,no
+60191,2,7,male,6,1,no,,,no,,yes,no
+60657,4,7,male,5,3,no,,,no,,yes,no
+60799,6,7,male,4,4,no,,,no,,yes,no
+60965,6,7,male,8,3,no,,,no,,no,no
+61237,8,7,male,3,3,no,,,no,,yes,no
+61372,8,7,male,3,3,no,,,no,,no,no
+61396,8,7,male,6,6,no,,,no,,yes,no
+61425,8,7,male,7,3,no,,,no,,yes,no
+61612,9,7,male,4,4,no,,,no,,yes,no
+61635,9,7,male,5,5,no,,,no,,yes,no
+61640,9,7,male,6,3,no,,,no,,yes,no
+61788,10,7,male,9,3,no,,,no,,yes,no
+61785,10,7,male,9,3,no,,,no,,yes,no
+61864,10,7,male,5,5,no,,,no,,yes,no
+61914,10,7,male,8,3,no,,,no,,yes,no
+63027,10,7,male,8,4,no,,,no,,yes,no
+63077,10,7,male,4,3,no,,,no,,yes,no
+61354,8,8,male,5,3,yes,8 9,11-49,yes,11-49,yes,no
+60683,4,8,male,8,3,yes,4 5 8 9,11-49,yes,6-10,yes,no
+61989,10,8,male,4,2,yes,2 5 6 8 9,?50,yes,6-10,yes,no
+60505,3,8,male,7,4,yes,4 5 9,11-49,yes,?5,yes,no
+60333,2,8,female,5,2,yes,5,?10,yes,?5,no,no
+61192,8,8,male,5,4,yes,4 5,?10,yes,?5,yes,no
+60750,5,8,female,4,2,no,,,yes,11-49,yes,no
+61603,9,8,male,7,3,no,,,yes,11-49,yes,no
+63071,10,8,male,5,5,no,,,yes,11-49,yes,no
+60265,2,8,female,9,3,no,,,yes,6-10,yes,no
+61018,7,8,female,6,2,no,,,yes,6-10,yes,no
+61137,8,8,female,8,3,no,,,yes,6-10,yes,no
+61187,8,8,female,8,4,no,,,yes,6-10,yes,no
+61466,9,8,female,4,2,no,,,yes,6-10,yes,no
+63060,10,8,female,8,2,no,,,yes,6-10,yes,no
+60059,1,8,male,11,9,no,,,yes,6-10,yes,no
+60072,1,8,male,6,6,no,,,yes,6-10,yes,no
+60121,1,8,male,8,4,no,,,yes,6-10,yes,no
+60446,3,8,male,6,6,no,,,yes,6-10,yes,no
+60826,6,8,male,7,4,no,,,yes,6-10,yes,no
+61130,8,8,male,12,4,no,,,yes,6-10,yes,no
+61309,8,8,male,5,4,no,,,yes,6-10,yes,no
+61409,8,8,male,5,2,no,,,yes,6-10,yes,no
+61406,8,8,male,6,2,no,,,yes,6-10,yes,no
+61936,10,8,male,4,3,no,,,yes,6-10,no,no
+60130,1,8,female,4,4,no,,,yes,?5,yes,no
+60241,2,8,female,13,4,no,,,yes,?5,yes,no
+60448,3,8,female,8,4,no,,,yes,?5,no,no
+60582,4,8,female,6,5,no,,,yes,?5,yes,no
+60609,4,8,female,3,3,no,,,yes,?5,no,no
+60600,4,8,female,10,5,no,,,yes,?5,yes,no
+60763,5,8,female,6,3,no,,,yes,?5,no,no
+60981,6,8,female,9,3,no,,,yes,?5,yes,no
+61322,8,8,female,4,4,no,,,yes,?5,yes,no
+60026,1,8,male,7,2,no,,,yes,?5,yes,no
+60056,1,8,male,4,4,no,,,yes,?5,yes,no
+60081,1,8,male,6,3,no,,,yes,?5,yes,no
+60168,2,8,male,6,5,no,,,yes,?5,yes,no
+60532,4,8,male,3,3,no,,,yes,?5,yes,no
+60757,5,8,male,6,6,no,,,yes,?5,no,no
+60773,5,8,male,3,3,no,,,yes,?5,yes,no
+61059,7,8,male,9,3,no,,,yes,?5,yes,no
+61206,8,8,male,6,6,no,,,yes,?5,yes,no
+61899,10,8,male,5,3,no,,,yes,?5,yes,no
+60213,2,8,female,4,2,yes,8 9,11-49,no,,yes,no
+61878,10,8,female,6,3,yes,4 5 9,11-49,no,,yes,no
+60110,1,8,female,2,2,yes,8 9,?10,no,,yes,no
+60254,2,8,female,4,2,yes,8 9,?10,no,,yes,no
+60143,1,8,male,6,2,yes,9,?10,no,,yes,no
+61566,9,8,male,6,3,yes,8 9,?10,no,,yes,no
+61779,10,8,male,8,7,yes,4 5 9,?10,no,,yes,no
+60008,1,8,female,7,4,no,,,no,,yes,no
+60228,2,8,female,5,2,no,,,no,,yes,no
+60294,3,8,female,4,4,no,,,no,,no,no
+60373,3,8,female,5,3,no,,,no,,yes,no
+60518,4,8,female,6,3,no,,,no,,no,no
+60631,4,8,female,5,2,no,,,no,,yes,yes
+60652,4,8,female,6,4,no,,,no,,yes,no
+60644,4,8,female,10,10,no,,,no,,no,no
+60841,6,8,female,6,6,no,,,no,,yes,no
+61306,8,8,female,4,4,no,,,no,,yes,no
+61342,8,8,female,10,3,no,,,no,,no,no
+61386,8,8,female,6,6,no,,,no,,yes,no
+61492,9,8,female,5,3,no,,,no,,yes,no
+61554,9,8,female,6,3,no,,,no,,yes,no
+61574,9,8,female,6,3,no,,,no,,yes,no
+61770,10,8,female,5,4,no,,,no,,yes,no
+61783,10,8,female,9,3,no,,,no,,yes,yes
+61855,10,8,female,3,3,no,,,no,,yes,no
+61913,10,8,female,4,4,no,,,no,,yes,no
+60011,1,8,male,5,2,no,,,no,,yes,no
+60301,3,8,male,6,6,no,,,no,,yes,no
+60387,3,8,male,11,2,no,,,no,,yes,no
+60547,4,8,male,4,3,no,,,no,,yes,no
+60784,6,8,male,2,2,no,,,no,,yes,no
+60989,7,8,male,9,4,no,,,no,,yes,no
+61143,8,8,male,3,2,no,,,no,,yes,no
+61168,8,8,male,6,3,no,,,no,,yes,no
+61279,8,8,male,7,3,no,,,no,,yes,no
+61300,8,8,male,6,2,no,,,no,,yes,no
+61338,8,8,male,5,4,no,,,no,,yes,no
+61592,9,8,male,17,5,no,,,no,,yes,no
+61623,9,8,male,6,3,no,,,no,,yes,no
+61747,10,8,male,5,5,no,,,no,,yes,no
+61800,10,8,male,5,4,no,,,no,,yes,no
+63016,10,8,male,4,2,no,,,no,,yes,no
+63053,10,8,male,6,3,no,,,no,,yes,no
+60460,3,9,male,8,2,yes,4 5 8 9,11-49,yes,11-49,yes,no
+61348,8,9,male,6,4,yes,8 9,11-49,yes,11-49,no,no
+61418,8,9,male,8,4,yes,5 8 9,11-49,yes,11-49,yes,no
+60023,1,9,female,6,2,yes,9,?10,yes,11-49,yes,no
+61363,8,9,male,10,3,yes,8 9,?10,yes,11-49,yes,no
+60353,3,9,female,5,3,yes,8 9,11-49,yes,6-10,yes,no
+61711,10,9,male,9,4,yes,8 9,11-49,yes,6-10,yes,no
+61825,10,9,male,8,4,yes,8 9,11-49,yes,6-10,yes,no
+61544,9,9,female,4,2,yes,4 5 8 9,11-49,yes,?5,yes,no
+60045,1,9,male,8,2,yes,9,11-49,yes,?5,yes,no
+61350,8,9,male,5,5,yes,8 9,11-49,yes,?5,yes,no
+61681,9,9,male,10,4,yes,4 5,11-49,yes,?5,yes,no
+61946,10,9,male,9,4,yes,4 5 8 9,11-49,yes,?5,yes,no
+61639,9,9,female,6,3,yes,8 9,?10,yes,?5,yes,no
+61430,9,9,male,7,6,yes,5 8 9,?10,yes,?5,yes,no
+61487,9,9,male,4,3,yes,8 9,?10,yes,?5,yes,no
+60028,1,9,female,7,2,no,,,yes,11-49,yes,no
+60777,5,9,male,7,3,no,,,yes,11-49,yes,no
+60074,1,9,female,4,4,no,,,yes,6-10,yes,no
+60653,4,9,female,6,4,no,,,yes,6-10,yes,no
+61110,8,9,female,12,3,no,,,yes,6-10,yes,no
+61150,8,9,female,7,3,no,,,yes,6-10,yes,no
+61335,8,9,female,5,4,no,,,yes,6-10,yes,no
+61792,10,9,female,5,5,no,,,yes,6-10,yes,no
+60039,1,9,male,9,3,no,,,yes,6-10,yes,no
+60485,3,9,male,6,3,no,,,yes,6-10,yes,no
+61155,8,9,male,8,2,no,,,yes,6-10,yes,no
+61691,9,9,male,5,3,no,,,yes,6-10,yes,no
+60004,1,9,female,5,2,no,,,yes,?5,yes,no
+60586,4,9,female,6,3,no,,,yes,?5,yes,no
+60707,4,9,female,12,4,no,,,yes,?5,yes,no
+60830,6,9,female,6,6,no,,,yes,?5,yes,no
+60914,6,9,female,7,5,no,,,yes,?5,yes,no
+61095,7,9,female,7,3,no,,,yes,?5,yes,no
+61229,8,9,female,6,3,no,,,yes,?5,yes,no
+63076,10,9,female,4,3,no,,,yes,?5,yes,no
+60048,1,9,male,5,2,no,,,yes,?5,yes,no
+60096,1,9,male,9,9,no,,,yes,?5,yes,no
+60376,3,9,male,6,4,no,,,yes,?5,yes,no
+60712,4,9,male,6,5,no,,,yes,?5,yes,no
+61057,7,9,male,10,3,no,,,yes,?5,yes,no
+61197,8,9,male,8,3,no,,,yes,?5,yes,no
+61407,8,9,male,6,2,no,,,yes,?5,yes,no
+61377,8,9,male,7,2,no,,,yes,?5,yes,no
+61836,10,9,male,6,2,no,,,yes,?5,yes,no
+60002,1,9,female,6,3,yes,5,11-49,no,,yes,no
+61041,7,9,male,8,3,yes,4 5,11-49,no,,yes,no
+61460,9,9,male,6,3,yes,8 9,11-49,no,,yes,no
+61778,10,9,male,8,7,yes,4 8 9,11-49,no,,yes,no
+60317,2,9,female,8,4,yes,8 9,?10,no,,yes,no
+60944,6,9,female,4,2,yes,8 9,?10,no,,yes,no
+61505,9,9,female,2,2,yes,8,?10,no,,yes,no
+61752,10,9,female,8,2,yes,4,?10,no,,yes,no
+61954,10,9,female,9,3,yes,8 9,?10,no,,yes,no
+60106,1,9,male,4,2,yes,5,?10,no,,yes,no
+60007,1,9,female,7,4,no,,,no,,yes,no
+60108,1,9,female,3,2,no,,,no,,yes,no
+60120,1,9,female,8,4,no,,,no,,yes,no
+60326,2,9,female,8,4,no,,,no,,no,no
+60372,3,9,female,5,3,no,,,no,,yes,no
+60426,3,9,female,10,3,no,,,no,,yes,no
+60550,4,9,female,3,3,no,,,no,,no,no
+60627,4,9,female,4,4,no,,,no,,yes,no
+60846,6,9,female,10,5,no,,,no,,yes,no
+60887,6,9,female,7,7,no,,,no,,yes,no
+60940,6,9,female,3,3,no,,,no,,yes,no
+61180,8,9,female,10,8,no,,,no,,yes,no
+61186,8,9,female,8,4,no,,,no,,yes,no
+61264,8,9,female,5,5,no,,,no,,yes,no
+61423,8,9,female,8,4,no,,,no,,yes,no
+61585,9,9,female,5,2,no,,,no,,yes,no
+61596,9,9,female,5,2,no,,,no,,yes,no
+61858,10,9,female,5,3,no,,,no,,yes,no
+61924,10,9,female,7,3,no,,,no,,yes,no
+61986,10,9,female,7,2,no,,,no,,yes,no
+60102,1,9,male,5,4,no,,,no,,yes,no
+60348,3,9,male,7,5,no,,,no,,no,no
+60513,4,9,male,13,3,no,,,no,,yes,no
+60576,4,9,male,6,3,no,,,no,,yes,no
+60907,6,9,male,12,9,no,,,no,,yes,no
+61217,8,9,male,4,3,no,,,no,,yes,yes
+61319,8,9,male,8,4,no,,,no,,yes,yes
+61334,8,9,male,6,3,no,,,no,,yes,no
+61819,10,9,male,7,3,no,,,no,,yes,no
+63044,10,9,male,6,3,no,,,no,,yes,no
+61084,7,10,male,5,2,yes,7 8 9,11-49,yes,11-49,yes,no
+61116,8,10,male,6,3,yes,8 9,11-49,yes,11-49,yes,no
+61385,8,10,male,6,6,yes,8 9,11-49,yes,?5,yes,no
+60238,2,10,female,3,3,yes,8 9,?10,yes,?5,yes,no
+60504,3,10,female,7,4,yes,4 5,?10,yes,?5,no,no
+60179,2,10,male,5,2,yes,5,?10,yes,?5,yes,no
+60038,1,10,male,9,3,no,,,yes,11-49,yes,no
+60938,6,10,female,5,2,no,,,yes,6-10,yes,no
+60957,6,10,female,5,5,no,,,yes,6-10,yes,no
+61284,8,10,female,6,2,no,,,yes,6-10,yes,no
+60492,3,10,male,3,3,no,,,yes,6-10,yes,no
+60495,3,10,male,8,2,no,,,yes,6-10,yes,no
+61616,9,10,male,4,2,no,,,yes,6-10,yes,no
+61659,9,10,male,5,2,no,,,yes,6-10,yes,no
+63009,10,10,male,10,4,no,,,yes,6-10,yes,no
+60084,1,10,female,8,5,no,,,yes,?5,yes,no
+60420,3,10,female,6,4,no,,,yes,?5,yes,no
+61012,7,10,female,8,2,no,,,yes,?5,yes,no
+61221,8,10,female,7,4,no,,,yes,?5,yes,no
+61985,10,10,female,7,2,no,,,yes,?5,yes,no
+63010,10,10,female,10,4,no,,,yes,?5,yes,no
+60175,2,10,male,12,3,no,,,yes,?5,yes,no
+60797,6,10,male,5,3,no,,,yes,?5,no,no
+61228,8,10,male,6,3,no,,,yes,?5,yes,no
+61339,8,10,male,10,3,no,,,yes,?5,yes,no
+61706,9,10,male,7,2,no,,,yes,?5,yes,no
+61863,10,10,male,5,5,no,,,yes,?5,yes,no
+61027,7,10,male,7,2,yes,5 8 9,11-49,no,,yes,no
+61241,8,10,male,6,4,yes,2,11-49,no,,no,no
+60195,2,10,female,5,1,yes,2 8 9,?10,no,,yes,no
+60234,2,10,female,5,3,yes,8 9,?10,no,,no,no
+60283,2,10,female,6,2,yes,5,?10,no,,yes,no
+61123,8,10,female,5,5,yes,5 9,?10,no,,yes,no
+60156,1,10,male,4,2,yes,4 5 9,?10,no,,yes,no
+60462,3,10,male,4,4,yes,8 9,?10,no,,yes,no
+61669,9,10,male,9,3,yes,8 9,?10,no,,yes,no
+61741,10,10,male,9,2,yes,4 5 8 9,?10,no,,yes,no
+60068,1,10,female,6,6,no,,,no,,yes,no
+60253,2,10,female,4,2,no,,,no,,yes,no
+60255,2,10,female,4,2,no,,,no,,yes,no
+60315,2,10,female,8,4,no,,,no,,no,no
+60289,2,10,female,8,4,no,,,no,,yes,no
+60343,3,10,female,7,5,no,,,no,,yes,no
+60452,3,10,female,8,4,no,,,no,,yes,no
+60451,3,10,female,8,4,no,,,no,,yes,no
+60581,4,10,female,6,5,no,,,no,,no,no
+60656,4,10,female,5,3,no,,,no,,yes,no
+60692,4,10,female,8,2,no,,,no,,yes,no
+60783,6,10,female,2,2,no,,,no,,yes,no
+60987,7,10,female,2,2,no,,,no,,yes,no
+61205,8,10,female,6,6,no,,,no,,yes,no
+61333,8,10,female,7,6,no,,,no,,yes,no
+61313,8,10,female,6,3,no,,,no,,yes,no
+61345,8,10,female,6,4,no,,,no,,yes,no
+61368,8,10,female,7,7,no,,,no,,yes,no
+61413,8,10,female,6,4,no,,,no,,yes,no
+61496,9,10,female,6,3,no,,,no,,yes,no
+61879,10,10,female,6,3,no,,,no,,no,no
+61975,10,10,female,7,3,no,,,no,,yes,no
+60033,1,10,male,6,3,no,,,no,,no,no
+60531,4,10,male,4,4,no,,,no,,yes,no
+60620,4,10,male,4,2,no,,,no,,yes,no
+60975,6,10,male,6,3,no,,,no,,yes,no
+61185,8,10,male,8,4,no,,,no,,yes,no
+61278,8,10,male,7,3,no,,,no,,yes,no
+61365,8,10,male,4,4,no,,,no,,yes,no
+61470,9,10,male,5,5,no,,,no,,yes,no
+61480,9,10,male,5,2,no,,,no,,yes,no
+61602,9,10,male,7,3,no,,,no,,yes,no
+61620,9,10,male,4,4,no,,,no,,yes,no
+61787,10,10,male,9,3,no,,,no,,yes,no
+63091,10,10,male,6,4,no,,,no,,yes,no
+60273,2,11,female,6,1,yes,8 9,11-49,yes,6-10,yes,no
+60352,3,11,female,5,3,yes,8 9,11-49,yes,6-10,yes,no
+60808,6,11,male,6,3,yes,4 5 8 9,11-49,yes,6-10,yes,no
+61367,8,11,male,7,7,yes,8 9,11-49,yes,6-10,yes,no
+61545,9,11,male,4,2,yes,5 8 9,11-49,yes,6-10,yes,no
+61651,9,11,female,5,3,yes,9,?10,yes,6-10,yes,no
+60080,1,11,male,2,2,yes,5,?10,yes,6-10,yes,no
+60680,4,11,male,3,3,yes,4 5,?10,yes,6-10,yes,no
+63003,10,11,male,6,4,yes,8 9,?10,yes,6-10,yes,no
+60117,1,11,female,4,2,yes,3 8 9,11-49,yes,?5,yes,no
+61420,8,11,female,8,4,yes,4 5 9,11-49,yes,?5,no,no
+60573,4,11,male,5,4,yes,8 9,11-49,yes,?5,yes,no
+61624,9,11,male,6,3,yes,8 9,11-49,yes,?5,yes,no
+61791,10,11,female,5,5,yes,8 9,?10,yes,?5,yes,no
+60753,5,11,female,4,2,no,,,yes,11-49,yes,no
+60766,5,11,female,5,2,no,,,yes,11-49,no,no
+60985,6,11,female,7,2,no,,,yes,6-10,yes,no
+61114,8,11,female,5,3,no,,,yes,6-10,yes,no
+63074,10,11,female,5,5,no,,,yes,6-10,yes,no
+60340,3,11,male,4,4,no,,,yes,6-10,yes,no
+60484,3,11,male,5,2,no,,,yes,6-10,yes,no
+60776,5,11,male,7,3,no,,,yes,6-10,yes,no
+60850,6,11,male,3,3,no,,,yes,6-10,yes,no
+61734,10,11,male,7,2,no,,,yes,6-10,yes,no
+63075,10,11,male,4,3,no,,,yes,6-10,yes,no
+60099,1,11,female,3,3,no,,,yes,?5,yes,no
+60467,3,11,female,5,2,no,,,yes,?5,yes,no
+60483,3,11,female,5,2,no,,,yes,?5,no,no
+60770,5,11,female,4,4,no,,,yes,?5,yes,no
+60803,6,11,female,6,3,no,,,yes,?5,yes,no
+60829,6,11,female,6,6,no,,,yes,?5,yes,no
+60928,6,11,female,7,3,no,,,yes,?5,yes,no
+60918,6,11,female,5,5,no,,,yes,?5,yes,no
+61209,8,11,female,6,2,no,,,yes,?5,yes,no
+61291,8,11,female,6,6,no,,,yes,?5,yes,no
+61304,8,11,female,30,10,no,,,yes,?5,yes,no
+61670,9,11,female,9,3,no,,,yes,?5,yes,no
+61944,10,11,female,9,4,no,,,yes,?5,yes,no
+60077,1,11,male,3,1,no,,,yes,?5,yes,no
+60187,2,11,male,12,4,no,,,yes,?5,yes,no
+60347,3,11,male,7,5,no,,,yes,?5,yes,no
+60425,3,11,male,10,3,no,,,yes,?5,yes,no
+60447,3,11,male,8,4,no,,,yes,?5,no,no
+60566,4,11,male,5,1,no,,,yes,?5,yes,no
+60670,4,11,male,3,1,no,,,yes,?5,yes,no
+61129,8,11,male,12,4,no,,,yes,?5,yes,no
+61196,8,11,male,8,3,no,,,yes,?5,yes,no
+61283,8,11,male,6,2,no,,,yes,?5,yes,no
+61862,10,11,male,5,5,no,,,yes,?5,yes,no
+63036,10,11,male,6,3,no,,,yes,?5,yes,no
+60138,1,11,female,9,4,yes,4 5,11-49,no,,yes,no
+60211,2,11,female,5,2,yes,8 9,11-49,no,,yes,no
+60103,1,11,male,5,1,yes,4 5,11-49,no,,yes,no
+61459,9,11,male,6,3,yes,8 9,11-49,no,,yes,no
+63069,10,11,male,5,2,yes,4 5 8 9,11-49,no,,yes,no
+60142,1,11,female,6,2,yes,8 9,?10,no,,yes,no
+60147,1,11,female,6,2,yes,9,?10,no,,yes,no
+61154,8,11,female,8,2,yes,5,?10,no,,yes,no
+61518,9,11,male,10,3,yes,8 9,?10,no,,yes,no
+60105,1,11,female,4,2,yes,3 4 5 9,?50,no,,yes,no
+60022,1,11,female,3,3,no,,,no,,yes,no
+60029,1,11,female,7,2,no,,,no,,yes,no
+60055,1,11,female,4,4,no,,,no,,yes,no
+60095,1,11,female,9,9,no,,,no,,no,no
+60171,2,11,female,7,2,no,,,no,,yes,no
+60293,3,11,female,4,4,no,,,no,,yes,no
+60309,3,11,female,4,2,no,,,no,,yes,no
+60300,3,11,female,6,6,no,,,no,,yes,no
+60546,4,11,female,4,1,no,,,no,,yes,no
+60674,4,11,female,8,2,no,,,no,,yes,no
+60786,6,11,female,5,3,no,,,no,,yes,no
+60862,6,11,female,11,4,no,,,no,,yes,no
+60937,6,11,female,5,2,no,,,no,,yes,no
+60922,6,11,female,5,3,no,,,no,,yes,no
+60971,6,11,female,5,2,no,,,no,,yes,no
+61299,5,11,female,6,2,no,,,no,,yes,no
+61419,8,11,female,8,4,no,,,no,,yes,no
+61525,9,11,female,11,2,no,,,no,,yes,no
+61782,10,11,female,9,3,no,,,no,,yes,no
+61840,10,11,female,4,4,no,,,no,,yes,no
+61891,10,11,female,4,4,no,,,no,,yes,no
+61921,10,11,female,7,3,no,,,no,,yes,no
+61942,10,11,female,9,4,no,,,no,,yes,no
+61943,10,11,female,4,3,no,,,no,,yes,yes
+61982,10,11,female,7,2,no,,,no,,yes,no
+61993,10,11,female,5,2,no,,,no,,yes,no
+63004,10,11,female,6,3,no,,,no,,yes,no
+63031,10,11,female,4,4,no,,,no,,yes,no
+63038,10,11,female,6,3,no,,,no,,yes,no
+63040,10,11,female,8,2,no,,,no,,yes,no
+60186,2,11,male,5,3,no,,,no,,yes,no
+60215,2,11,male,5,1,no,,,no,,no,no
+60571,4,11,male,5,3,no,,,no,,yes,no
+60762,5,11,male,6,3,no,,,no,,yes,no
+60882,6,11,male,7,7,no,,,no,,yes,no
+60896,6,11,male,4,3,no,,,no,,yes,no
+60897,6,11,male,4,3,no,,,no,,yes,no
+60947,6,11,male,7,4,no,,,no,,yes,no
+61039,7,11,male,8,3,no,,,no,,yes,no
+61118,8,11,male,4,3,no,,,no,,yes,no
+61133,8,11,male,6,2,no,,,no,,yes,no
+61349,8,11,male,5,5,no,,,no,,yes,yes
+61536,9,11,male,4,2,no,,,no,,yes,no
+61553,9,11,male,6,3,no,,,no,,yes,no
+61634,9,11,male,7,2,no,,,no,,yes,no
+61700,9,11,male,8,4,no,,,no,,yes,no
+61795,10,11,male,4,3,no,,,no,,yes,no
+61845,10,11,male,4,2,no,,,no,,yes,no
+61990,10,11,male,4,2,no,,,no,,yes,no
+60886,6,12,female,7,7,yes,7 8 9,11-49,yes,11-49,yes,no
+61705,9,12,male,7,2,yes,8 9,?10,yes,11-49,yes,no
+60943,6,12,male,4,2,yes,8 9,11-49,yes,6-10,yes,no
+61040,7,12,male,8,2,yes,8 9,11-49,yes,6-10,yes,no
+61980,10,12,male,5,2,yes,3,11-49,yes,6-10,yes,no
+63083,10,12,male,7,2,yes,8 9,11-49,yes,6-10,no,no
+61928,10,12,female,9,3,yes,8 9,?10,yes,6-10,yes,no
+61971,10,12,male,8,3,yes,8,?10,yes,6-10,yes,no
+63058,10,12,male,5,3,yes,4 5 8 9,?10,yes,6-10,yes,no
+61412,8,12,female,6,4,yes,4 5 9,11-49,yes,?5,yes,no
+60155,1,12,male,6,2,yes,4 5 9,11-49,yes,?5,yes,no
+60459,3,12,male,8,2,yes,2 3 4 5 6 8 9,?50,yes,?50,yes,no
+61239,8,12,male,4,2,no,,,yes,11-49,yes,no
+60567,4,12,female,5,1,no,,,yes,6-10,yes,no
+60476,3,12,male,3,3,no,,,yes,6-10,yes,no
+60085,1,12,female,7,3,no,,,yes,?5,yes,no
+60355,3,12,female,7,4,no,,,yes,?5,yes,no
+60435,3,12,female,6,2,no,,,yes,?5,no,no
+61191,8,12,female,5,4,no,,,yes,?5,no,no
+61611,9,12,female,4,4,no,,,yes,?5,yes,no
+61898,10,12,female,5,3,no,,,yes,?5,no,no
+61998,10,12,female,3,3,no,,,yes,?5,yes,no
+60043,1,12,male,6,1,no,,,yes,?5,yes,no
+60037,1,12,male,9,3,no,,,yes,?5,yes,no
+60834,6,12,male,7,3,no,,,yes,?5,yes,no
+61017,7,12,male,6,2,no,,,yes,?5,yes,no
+61204,8,12,male,6,6,no,,,yes,?5,yes,no
+61332,8,12,male,7,6,no,,,yes,?5,yes,no
+61692,9,12,male,5,5,no,,,yes,?5,yes,no
+62005,10,12,male,6,2,no,,,yes,?5,yes,no
+63028,10,12,male,8,4,no,,,yes,?5,yes,yes
+63068,10,12,male,4,2,no,,,yes,?5,yes,no
+63020,10,12,male,6,3,yes,5 8 9,11-49,no,,yes,no
+60384,3,12,female,3,3,yes,5,?10,no,,yes,no
+60429,3,12,female,6,6,yes,4,?10,no,,yes,no
+61970,10,12,female,8,3,yes,8,?10,no,,yes,no
+61149,8,12,male,7,2,yes,5,?10,no,,no,yes
+61159,8,12,male,8,2,yes,4 5 9,?10,no,,yes,no
+61258,8,12,male,6,3,yes,8,?10,no,,yes,no
+61277,8,12,male,7,3,yes,5 9,?10,no,,yes,no
+61777,10,12,male,8,7,yes,4,?10,no,,yes,no
+60158,1,12,female,5,2,no,,,no,,yes,no
+60245,2,12,female,10,3,no,,,no,,yes,no
+60388,3,12,female,11,2,no,,,no,,yes,no
+60494,3,12,female,8,2,no,,,no,,no,no
+60563,4,12,female,8,4,no,,,no,,yes,no
+60589,4,12,female,6,3,no,,,no,,yes,no
+60655,4,12,female,6,4,no,,,no,,no,no
+60646,4,12,female,10,10,no,,,no,,yes,no
+60713,4,12,female,6,5,no,,,no,,yes,no
+60761,5,12,female,6,3,no,,,no,,yes,no
+60825,6,12,female,7,4,no,,,no,,yes,no
+60861,6,12,female,11,4,no,,,no,,yes,no
+61190,8,12,female,5,4,no,,,no,,no,no
+61184,8,12,female,8,4,no,,,no,,yes,no
+61361,8,12,female,10,3,no,,,no,,yes,yes
+61384,8,12,female,6,6,no,,,no,,yes,no
+61394,8,12,female,5,5,no,,,no,,yes,no
+61763,10,12,female,4,2,no,,,no,,yes,no
+61799,10,12,female,5,4,no,,,no,,yes,no
+61812,10,12,female,10,5,no,,,no,,yes,no
+61939,10,12,female,5,2,no,,,no,,yes,no
+63045,10,12,female,6,3,no,,,no,,yes,no
+60016,1,12,male,3,2,no,,,no,,yes,no
+60152,1,12,male,6,3,no,,,no,,yes,no
+60202,2,12,male,10,3,no,,,no,,yes,no
+60269,2,12,male,4,2,no,,,no,,yes,no
+60322,1,12,male,5,2,no,,,no,,yes,no
+60408,3,12,male,7,7,no,,,no,,yes,no
+60640,4,12,male,8,3,no,,,no,,yes,no
+60691,4,12,male,8,2,no,,,no,,yes,no
+61172,8,12,male,5,2,no,,,no,,yes,no
+61179,8,12,male,10,8,no,,,no,,yes,no
+61326,8,12,male,6,3,no,,,no,,yes,no
+61565,9,12,male,6,3,no,,,no,,yes,no
+61657,9,12,male,5,2,no,,,no,,yes,no
+61658,9,12,male,5,2,no,,,no,,yes,no
+61690,9,12,male,5,5,no,,,no,,yes,no
+61728,10,12,male,4,3,no,,,no,,yes,no
+63037,10,12,male,6,3,no,,,no,,yes,no
+63067,10,12,male,6,2,no,,,no,,yes,no
+61099,8,13,male,9,3,yes,7 8 9,11-49,yes,11-49,yes,no
+61948,10,13,female,9,3,yes,4 5 7 8,11-49,yes,6-10,yes,no
+61552,9,13,female,6,3,yes,8 9,?10,yes,6-10,yes,no
+60226,2,13,male,9,4,yes,8 9,11-49,yes,?5,yes,no
+63035,10,13,female,8,2,yes,8 9,?10,yes,?5,yes,no
+60051,1,13,male,5,2,yes,5,?10,yes,?5,yes,no
+60185,2,13,male,12,4,yes,9,?10,yes,?5,yes,no
+61073,7,13,male,5,2,yes,8 9,?10,yes,?5,yes,no
+60040,1,13,male,4,3,no,,,yes,6-10,yes,no
+61804,10,13,male,6,4,no,,,yes,6-10,yes,no
+63082,10,13,male,6,2,no,,,yes,6-10,yes,no
+60751,5,13,female,4,4,no,,,yes,?5,yes,no
+60979,6,13,female,5,3,no,,,yes,?5,yes,no
+61686,9,13,female,6,2,no,,,yes,?5,yes,no
+60020,1,13,male,3,1,no,,,yes,?5,yes,no
+60407,3,13,male,7,7,no,,,yes,?5,yes,no
+60767,5,13,male,5,2,no,,,yes,?5,yes,no
+61429,9,13,male,7,6,no,,,yes,?5,yes,no
+61601,9,13,male,7,3,no,,,yes,?5,yes,no
+63006,10,13,male,6,3,no,,,yes,?5,yes,no
+63029,10,13,male,8,4,no,,,yes,?5,yes,no
+60290,2,13,female,8,4,yes,8 9,11-49,no,,yes,no
+60445,3,13,female,8,4,yes,8 9,11-49,no,,yes,no
+61940,10,13,female,5,2,yes,5 8 9,11-49,no,,yes,no
+60036,1,13,male,9,3,yes,5 9,11-49,no,,yes,no
+60454,3,13,male,5,3,yes,5,11-49,no,,yes,no
+61710,10,13,male,9,4,yes,4,11-49,no,,yes,no
+61790,10,13,male,5,5,yes,8 9,11-49,no,,yes,no
+60054,1,13,female,4,4,yes,4 5,?10,no,,yes,no
+60561,4,13,female,8,4,yes,8 9,?10,no,,yes,no
+61543,9,13,female,4,2,yes,8 9,?10,no,,yes,no
+61656,9,13,female,5,2,yes,8 9,?10,no,,yes,no
+61767,10,13,female,4,2,yes,8 9,?10,no,,yes,no
+61910,10,13,female,6,3,yes,8 9,?10,no,,yes,no
+61987,10,13,female,7,2,yes,3,?10,no,,yes,no
+60217,2,13,male,5,2,yes,8 9,?10,no,,yes,no
+60424,3,13,male,10,3,yes,8,?10,no,,yes,no
+60681,4,13,male,3,3,yes,8 9,?10,no,,yes,no
+61573,9,13,male,6,3,yes,8 9,?10,no,,yes,no
+60279,2,13,male,12,4,yes,4 5,?50,no,,yes,no
+60001,1,13,female,6,3,no,,,no,,yes,no
+60083,1,13,female,6,3,no,,,no,,yes,no
+60306,3,13,female,5,3,no,,,no,,yes,no
+60344,3,13,female,7,5,no,,,no,,yes,no
+60568,4,13,female,5,1,no,,,no,,yes,no
+60592,4,13,female,7,4,no,,,no,,yes,no
+60687,4,13,female,3,1,no,,,no,,yes,no
+61113,8,13,female,7,7,no,,,no,,yes,no
+61132,8,13,female,6,2,no,,,no,,yes,no
+61227,8,13,female,6,3,no,,,no,,yes,no
+61244,8,13,female,6,4,no,,,no,,yes,no
+61360,8,13,female,10,3,no,,,no,,yes,no
+61376,8,13,female,7,2,no,,,no,,yes,yes
+61606,9,13,female,5,4,no,,,no,,yes,no
+61786,10,13,female,9,3,no,,,no,,yes,no
+60032,1,13,male,6,3,no,,,no,,yes,no
+60249,2,13,male,9,4,no,,,no,,yes,no
+60351,3,13,male,5,3,no,,,no,,yes,no
+60346,3,13,male,7,5,no,,,no,,yes,no
+60371,3,13,male,5,3,no,,,no,,yes,no
+60565,4,13,male,5,1,no,,,no,,yes,no
+60860,6,13,male,11,4,no,,,no,,yes,no
+61056,7,13,male,10,3,no,,,no,,yes,no
+61522,9,13,male,4,2,no,,,no,,yes,no
+61526,9,13,male,11,2,no,,,no,,yes,no
+61584,9,13,male,5,2,no,,,no,,yes,no
+61595,9,13,male,5,2,no,,,no,,yes,no
+61880,10,13,male,6,3,no,,,no,,yes,no
+61929,10,13,male,4,4,no,,,no,,no,no
+61964,10,13,male,2,2,no,,,no,,yes,no
+61953,10,13,male,9,3,no,,,no,,yes,no
+63005,10,13,male,8,4,no,,,no,,yes,no
+60298,3,14,male,4,3,yes,4 5 7 8 9,?50,yes,11-49,yes,no
+60210,2,14,male,5,2,yes,8,?10,yes,6-10,yes,no
+60406,3,14,male,7,7,yes,7 8,?10,yes,6-10,no,no
+61908,10,14,male,3,2,yes,8 9,?10,yes,6-10,yes,no
+60079,1,14,male,8,2,yes,8 9,11-49,yes,?5,yes,no
+60345,3,14,male,7,5,yes,5,?10,yes,?5,yes,no
+61083,7,14,male,5,2,yes,8 9,?10,yes,?5,yes,no
+61178,8,14,male,10,8,yes,5 8 9,?10,yes,?5,yes,no
+60884,6,14,male,7,7,yes,4 5 7 8,?50,yes,?50,yes,no
+60359,3,14,female,5,2,no,,,yes,11-49,yes,no
+61063,7,14,female,7,3,no,,,yes,11-49,yes,no
+60021,1,14,male,5,2,no,,,yes,11-49,yes,no
+61038,7,14,female,8,2,no,,,yes,6-10,yes,no
+60562,4,14,male,8,4,no,,,yes,6-10,yes,no
+60673,4,14,male,8,2,no,,,yes,6-10,yes,no
+60815,6,14,male,8,2,no,,,yes,6-10,yes,no
+61395,8,14,male,5,5,no,,,yes,6-10,yes,no
+61569,9,14,male,4,4,no,,,yes,6-10,yes,no
+60044,1,14,female,8,3,no,,,yes,?5,yes,no
+60065,1,14,female,6,1,no,,,yes,?5,yes,no
+61411,8,14,female,6,4,no,,,yes,?5,yes,no
+61463,9,14,female,4,2,no,,,yes,?5,yes,no
+61583,9,14,female,5,2,no,,,yes,?5,yes,no
+61803,10,14,female,6,4,no,,,yes,?5,yes,no
+61949,10,14,female,9,3,no,,,yes,?5,yes,no
+63084,10,14,female,6,2,no,,,yes,?5,yes,no
+60466,3,14,male,7,2,no,,,yes,?5,yes,no
+60469,3,14,male,5,2,no,,,yes,?5,yes,no
+61594,9,14,male,5,2,no,,,yes,?5,yes,no
+61769,10,14,male,5,1,no,,,yes,?5,yes,no
+61025,7,14,female,7,2,yes,8 9,11-49,no,,yes,no
+61909,10,14,male,6,3,yes,5 8 9,11-49,no,,yes,no
+60277,2,14,female,6,6,yes,8 9,?10,no,,yes,no
+60356,3,14,female,7,4,yes,8 9,?10,no,,yes,no
+61318,8,14,female,8,4,yes,8 9,?10,no,,yes,no
+61652,9,14,female,5,3,yes,8 9,?10,no,,yes,no
+60010,1,14,female,5,3,no,,,no,,yes,no
+60042,1,14,female,6,1,no,,,no,,yes,no
+60137,1,14,female,4,4,no,,,no,,yes,no
+60278,2,14,female,12,4,no,,,no,,yes,no
+60978,6,14,female,5,3,no,,,no,,yes,no
+61016,7,14,female,6,2,no,,,no,,no,no
+61112,8,14,female,9,3,no,,,no,,yes,no
+61169,8,14,female,6,3,no,,,no,,yes,no
+61176,8,14,female,6,3,no,,,no,,yes,no
+61236,8,14,female,3,3,no,,,no,,yes,no
+61328,8,14,female,6,3,no,,,no,,yes,no
+61510,9,14,female,7,2,no,,,no,,yes,no
+61564,9,14,female,6,3,no,,,no,,yes,no
+61627,9,14,female,6,3,no,,,no,,yes,no
+61643,9,14,female,4,2,no,,,no,,yes,no
+61685,9,14,female,6,2,no,,,no,,yes,no
+61764,10,14,female,4,2,no,,,no,,yes,no
+61830,10,14,female,5,5,no,,,no,,no,no
+61870,10,14,female,9,7,no,,,no,,yes,yes
+61938,10,14,female,5,2,no,,,no,,yes,no
+61979,10,14,female,5,2,no,,,no,,yes,no
+61988,10,14,female,7,2,no,,,no,,no,no
+62007,10,14,female,6,2,no,,,no,,yes,no
+60146,1,14,male,6,3,no,,,no,,yes,no
+60796,6,14,male,5,3,no,,,no,,yes,no
+61072,7,14,male,5,2,no,,,no,,yes,no
+61121,8,14,male,5,2,no,,,no,,yes,no
+61163,8,14,male,8,2,no,,,no,,yes,no
+61245,8,14,male,6,4,no,,,no,,yes,no
+61527,9,14,male,11,2,no,,,no,,yes,no
+61733,10,14,male,7,2,no,,,no,,yes,no
+61811,10,14,male,10,5,no,,,no,,yes,no
+61679,9,15,male,10,4,yes,7 8 9,?50,yes,11-49,yes,no
+61528,9,15,male,11,2,yes,8 9,11-49,yes,6-10,yes,no
+60360,3,15,female,5,2,yes,3,?10,yes,6-10,yes,no
+61704,9,15,female,7,2,yes,8 9,?10,yes,?5,yes,no
+61535,9,15,male,4,2,yes,8,?10,yes,?5,no,no
+60913,6,15,male,7,5,no,,,yes,6-10,yes,no
+61671,9,15,female,9,3,no,,,yes,?5,yes,no
+61871,10,15,female,9,7,no,,,yes,?5,yes,no
+61678,9,15,male,10,4,no,,,yes,?5,yes,no
+63055,10,15,female,5,2,yes,4 5 8 9,11-49,no,,yes,no
+61776,10,15,female,8,7,yes,8 9,?10,no,,yes,no
+60444,3,15,male,8,4,yes,8 9,?10,no,,yes,no
+60270,2,15,female,5,2,no,,,no,,yes,no
+60401,3,15,female,5,5,no,,,no,,yes,no
+60542,4,15,female,5,4,no,,,no,,no,no
+60622,4,15,female,4,2,no,,,no,,no,no
+60704,4,15,female,12,4,no,,,no,,no,no
+60941,6,15,female,3,3,no,,,no,,yes,no
+61068,7,15,female,5,2,no,,,no,,yes,no
+61171,8,15,female,5,2,no,,,no,,yes,no
+61220,8,15,female,7,4,no,,,no,,yes,no
+61331,8,15,female,7,6,no,,,no,,yes,no
+61495,9,15,female,6,3,no,,,no,,yes,no
+61529,9,15,female,11,2,no,,,no,,yes,no
+61511,9,15,female,7,2,no,,,no,,no,no
+61723,10,15,female,5,2,no,,,no,,yes,no
+61869,10,15,female,9,7,no,,,no,,yes,no
+61882,10,15,female,7,7,no,,,no,,no,no
+63022,10,15,female,6,3,no,,,no,,yes,no
+63025,10,15,female,7,2,no,,,no,,yes,no
+63081,10,15,female,3,2,no,,,no,,yes,no
+63080,10,15,female,3,2,no,,,no,,yes,no
+60824,6,15,male,7,4,no,,,no,,yes,no
+61177,8,15,male,10,8,no,,,no,,yes,no
+61732,10,15,male,7,2,no,,,no,,yes,no
+61941,10,15,male,5,2,no,,,no,,yes,no
+63066,10,16,male,9,4,yes,4 5 8 9,11-49,yes,6-10,yes,no
+63085,10,16,female,3,3,no,,,yes,?5,yes,no
+61677,9,16,male,10,4,yes,8 9,11-49,no,,yes,no
+60319,2,16,female,8,4,no,,,no,,yes,no
+61653,9,16,female,5,3,no,,,no,,yes,no
+63089,10,16,female,7,2,no,,,no,,no,no
+60115,1,16,male,3,2,no,,,no,,yes,no
+60491,3,16,male,3,3,no,,,no,,yes,no
+61491,9,16,male,5,3,no,,,no,,yes,no
+61517,9,16,male,10,3,no,,,no,,no,no
+61576,9,16,male,3,3,no,,,no,,yes,no
+61382,8,17,male,12,3,yes,5 8 9,11-49,yes,11-49,yes,no
+61467,9,17,male,4,2,yes,8 9,11-49,yes,6-10,no,no
+61157,8,17,female,8,2,no,,,yes,6-10,yes,no
+60402,3,17,female,5,5,no,,,no,,no,no
+60607,4,17,female,10,5,no,,,no,,yes,no
+60701,4,17,female,12,4,no,,,no,,no,no
+61158,8,17,female,8,2,no,,,no,,yes,no
+61600,9,17,female,7,3,no,,,no,,yes,no
+63050,10,17,female,6,3,no,,,no,,yes,no
+60739,4,17,male,3,3,no,,,no,,yes,no
+61561,9,17,male,3,2,no,,,no,,no,no
+61670,9,17,male,9,3,no,,,no,,yes,no
+61680,9,18,male,10,4,yes,3 4 8 9,11-49,yes,11-49,yes,no
+60332,2,18,female,5,3,no,,,yes,?5,yes,no
+60400,3,18,female,5,5,no,,,yes,?5,no,no
+61673,9,18,female,9,3,no,,,yes,?5,yes,no
+60478,3,18,female,3,3,yes,4 5,11-49,no,,no,no
+61883,10,18,female,7,7,yes,8 9,?10,no,,yes,no
+60314,2,18,female,8,4,no,,,no,,yes,no
+60305,3,18,female,5,3,no,,,no,,yes,no
+60369,3,18,female,2,2,no,,,no,,yes,no
+60690,4,18,female,8,2,no,,,no,,yes,no
+61582,9,18,female,5,2,no,,,no,,yes,no
+61619,9,18,female,4,4,no,,,no,,yes,no
+61688,9,18,female,5,3,no,,,no,,yes,no
+61849,10,18,female,5,4,no,,,no,,yes,no
+61872,10,18,female,9,7,no,,,no,,yes,no
+60740,4,18,male,3,3,no,,,no,,yes,no
+61931,10,19,male,9,3,yes,8 9,11-49,yes,6-10,yes,no
+63086,10,19,female,4,2,no,,,yes,6-10,yes,no
+60539,4,19,male,4,4,no,,,yes,6-10,yes,no
+61037,7,19,female,3,2,yes,4 5 7 8 9,?50,no,,yes,no
+60281,2,19,female,5,2,no,,,no,,no,no
+60307,3,19,female,5,3,no,,,no,,yes,no
+60404,3,19,female,7,7,no,,,no,,yes,no
+60490,3,19,female,6,4,no,,,no,,yes,no
+61550,9,19,female,6,3,no,,,no,,yes,no
+61633,9,19,female,7,2,no,,,no,,yes,no
+61850,10,19,female,5,4,no,,,no,,no,no
+61873,10,19,female,9,7,no,,,no,,yes,no
+60738,4,19,male,3,3,no,,,no,,yes,no
+61458,9,19,male,6,3,no,,,no,,yes,no
+61508,9,19,male,7,2,no,,,no,,yes,no
+61773,10,20,female,2,2,yes,8 9,11-49,yes,6-10,yes,no
+61339,8,20,female,5,4,yes,8,?10,yes,6-10,yes,no
+60231,2,20,female,5,2,no,,,yes,?5,yes,no
+61515,9,20,female,10,3,yes,8 9,?10,no,,yes,no
+60023,2,20,female,3,3,no,,,no,,no,no
+61235,8,20,female,6,4,no,,,no,,yes,no
+61504,9,20,female,4,4,no,,,no,,yes,no
+61687,9,20,female,5,3,no,,,no,,yes,no
+61758,10,20,female,8,2,no,,,no,,yes,no
+63024,10,20,female,5,3,no,,,no,,yes,no
+61551,9,20,male,6,3,no,,,no,,yes,no
+61532,9,20,male,6,3,no,,,no,,yes,no
+63051,10,21,male,6,3,yes,4 5,11-49,yes,?5,yes,no
+61082,7,21,female,4,3,no,,,yes,?5,yes,no
+61366,8,21,female,4,4,no,,,no,,yes,no
+61435,9,21,female,3,2,no,,,no,,yes,no
+61791,10,21,female,4,3,no,,,no,,yes,no
+61851,10,21,female,5,4,no,,,no,,yes,no
+61912,10,21,female,6,3,no,,,no,,yes,no
+61995,10,21,male,5,2,no,,,no,,yes,no
+61847,10,22,female,4,2,yes,8 9,11-49,yes,6-10,yes,no
+61674,9,22,male,9,3,yes,8 9,?10,yes,?5,no,no
+61494,9,22,female,6,3,no,,,yes,?5,yes,no
+60961,6,22,female,9,3,yes,5,?10,no,,yes,no
+60201,2,22,female,3,2,no,,,no,,yes,no
+60260,2,22,female,4,1,no,,,no,,no,no
+61562,9,22,female,3,3,no,,,no,,no,no
+61902,10,22,female,5,3,no,,,no,,yes,no
+61950,10,22,female,9,3,no,,,no,,yes,no
+60638,4,22,male,8,1,no,,,no,,yes,no
+60677,4,22,male,8,2,no,,,no,,yes,no
+61489,9,22,male,4,3,no,,,no,,yes,no
+60109,1,23,female,3,2,no,,,no,,yes,no
+60163,1,23,female,5,2,no,,,no,,yes,no
+60594,4,23,female,2,2,no,,,no,,yes,no
+60820,6,23,female,5,3,no,,,no,,yes,no
+60857,6,23,female,4,4,no,,,no,,yes,no
+60939,6,23,female,5,2,no,,,no,,yes,no
+61226,8,23,female,2,2,no,,,no,,yes,no
+61453,9,23,female,6,3,no,,,no,,yes,no
+61615,9,23,female,5,2,no,,,no,,no,no
+61719,10,23,female,5,5,no,,,no,,yes,no
+61857,10,23,female,3,3,no,,,no,,yes,no
+60676,4,23,male,8,2,no,,,no,,yes,no
+61396,8,23,male,8,2,no,,,no,,yes,no
+61563,9,23,male,3,3,no,,,no,,no,no
+61035,7,24,female,8,2,yes,5,?10,no,,yes,no
+60246,2,24,female,8,2,no,,,no,,yes,no
+60558,4,24,female,3,3,no,,,no,,yes,no
+60626,4,24,female,2,2,no,,,no,,yes,no
+60747,4,24,female,11,6,no,,,no,,yes,no
+61276,8,24,female,3,3,no,,,no,,yes,no
+61373,8,24,female,3,3,no,,,no,,yes,no
+61599,9,24,female,7,3,no,,,no,,yes,no
+61739,10,24,female,3,3,no,,,no,,yes,no
+61759,10,24,female,8,2,no,,,no,,yes,no
+61874,10,24,female,9,2,no,,,no,,yes,no
+61590,9,24,male,17,5,no,,,no,,no,no
+61560,9,25,female,3,3,yes,8 9,11-49,yes,6-10,yes,no
+60503,3,25,female,4,2,no,,,yes,?5,no,no
+60822,6,25,female,3,3,no,,,yes,?5,yes,no
+60325,2,25,female,8,4,yes,8 9,11-49,no,,no,no
+60312,3,25,female,4,2,yes,8 9,?10,no,,yes,no
+60087,1,25,female,4,1,no,,,no,,yes,no
+60556,4,25,female,3,3,no,,,no,,yes,no
+60599,4,25,female,8,2,no,,,no,,yes,no
+61007,7,25,female,11,3,no,,,no,,yes,no
+61325,8,25,female,4,2,no,,,no,,yes,no
+61609,9,25,female,5,4,no,,,no,,yes,no
+61649,9,25,female,4,2,no,,,no,,yes,no
+61745,10,25,female,5,5,no,,,no,,yes,no
+61875,10,25,female,9,7,no,,,no,,yes,no
+63062,10,25,female,8,2,no,,,no,,yes,no
+61488,9,25,male,4,3,no,,,no,,yes,no
+61456,9,26,female,4,4,no,,,yes,?5,yes,no
+61457,9,26,male,4,4,no,,,yes,?5,yes,no
+60089,1,26,female,3,3,no,,,no,,yes,no
+60014,1,26,female,4,4,no,,,no,,yes,no
+60336,2,26,female,6,3,no,,,no,,yes,no
+60473,3,26,female,5,3,no,,,no,,yes,no
+60649,4,26,female,10,10,no,,,no,,yes,no
+61486,9,26,female,4,2,no,,,no,,yes,no
+61966,10,26,female,2,2,no,,,no,,yes,no
+60559,4,26,male,3,3,no,,,no,,yes,no
+61614,9,26,male,7,2,no,,,no,,yes,no
+60383,3,27,female,3,3,no,,,yes,6-10,yes,no
+60840,6,27,female,14,3,no,,,yes,6-10,yes,no
+61015,7,27,female,7,2,no,,,yes,6-10,yes,no
+60782,5,27,male,2,2,no,,,yes,?5,yes,no
+60094,1,27,female,6,4,no,,,no,,yes,no
+60243,2,27,female,5,2,no,,,no,,yes,no
+60399,3,27,female,4,4,no,,,no,,yes,no
+61011,7,27,female,9,4,no,,,no,,yes,no
+61404,8,27,female,5,5,no,,,no,,yes,no
+61380,8,27,female,7,2,no,,,no,,yes,no
+61694,9,27,female,4,3,no,,,no,,yes,no
+61750,10,27,female,5,5,no,,,no,,yes,no
+61951,10,27,female,8,3,no,,,no,,yes,no
+63019,10,27,male,4,2,no,,,no,,yes,no
+60508,3,28,female,7,4,no,,,yes,?5,yes,no
+61344,8,28,female,10,3,no,,,yes,?5,no,no
+60412,3,28,male,3,3,no,,,yes,?5,yes,no
+60178,2,28,female,10,3,yes,9,?10,no,,yes,no
+60167,2,28,female,6,2,no,,,no,,yes,no
+60149,2,28,female,6,2,no,,,no,,yes,no
+60242,2,28,female,13,4,no,,,no,,no,no
+60275,2,28,female,6,6,no,,,no,,yes,no
+60405,3,28,female,7,7,no,,,no,,yes,no
+60667,4,28,female,5,2,no,,,no,,yes,no
+60706,4,28,female,12,3,no,,,no,,yes,no
+60837,6,28,female,7,3,no,,,no,,no,no
+60877,6,28,female,2,2,no,,,no,,yes,no
+60956,6,28,female,5,2,no,,,no,,yes,no
+61024,7,28,female,3,2,no,,,no,,yes,no
+61055,7,28,female,4,4,no,,,no,,no,no
+61087,7,28,female,5,2,no,,,no,,yes,no
+61109,8,28,female,10,3,no,,,no,,yes,no
+61148,8,28,female,5,2,no,,,no,,yes,no
+61216,8,28,female,8,6,no,,,no,,no,no
+61479,9,28,female,5,2,no,,,no,,yes,no
+61861,10,28,female,5,3,no,,,no,,yes,no
+63073,10,28,female,5,5,no,,,no,,yes,no
+61516,9,28,male,10,3,no,,,no,,yes,no
+61650,9,29,male,4,2,yes,7,11-49,yes,6-10,yes,no
+60932,6,29,female,7,3,no,,,yes,?5,yes,no
+60698,4,29,female,7,3,yes,6,?10,no,,yes,no
+60227,2,29,female,9,4,no,,,no,,yes,no
+60268,2,29,female,7,3,no,,,no,,yes,no
+60411,3,29,female,3,3,no,,,no,,yes,no
+60639,4,29,female,8,1,no,,,no,,yes,no
+60756,5,29,female,4,2,no,,,no,,yes,no
+60778,5,29,female,7,3,no,,,no,,yes,no
+60792,6,29,female,5,2,no,,,no,,yes,no
+60905,6,29,female,4,4,no,,,no,,yes,no
+61061,7,29,female,9,3,no,,,no,,yes,no
+61140,8,29,female,8,3,no,,,no,,yes,no
+61308,8,29,female,4,4,no,,,no,,yes,no
+61364,8,29,female,10,3,no,,,no,,yes,no
+61722,10,29,female,4,4,no,,,no,,yes,no
+61809,10,29,female,3,3,no,,,no,,yes,no
+61974,10,29,female,8,4,no,,,no,,yes,no
+61559,9,29,male,3,3,no,,,no,,yes,no
+61465,9,30,female,6,3,yes,8 9,11-49,yes,11-49,yes,no
+61286,8,30,female,6,2,yes,8 9,?10,yes,6-10,yes,no
+63018,10,30,female,4,2,yes,8 9,11-49,yes,?5,yes,no
+61645,9,30,female,4,2,no,,,yes,6-10,yes,no
+60218,2,30,female,5,2,no,,,yes,?5,yes,no
+60487,3,30,female,6,3,no,,,yes,?5,yes,no
+60236,2,30,female,5,3,yes,8 9,11-49,no,,no,no
+60807,6,30,female,3,3,yes,5 8 9,11-49,no,,yes,no
+61468,9,30,male,4,2,yes,8 9,11-49,no,,yes,no
+61514,9,30,female,10,3,yes,8 9,?10,no,,yes,no
+60016,1,30,female,3,3,no,,,no,,yes,no
+60031,1,30,female,4,4,no,,,no,,yes,no
+60041,1,30,female,3,3,no,,,no,,yes,no
+60183,2,30,female,5,2,no,,,no,,yes,yes
+60287,2,30,female,6,2,no,,,no,,yes,no
+60338,3,30,female,4,4,no,,,no,,yes,no
+60391,3,30,female,11,2,no,,,no,,yes,no
+60634,4,30,female,5,2,no,,,no,,no,no
+60774,5,30,female,3,3,no,,,no,,yes,no
+60833,6,30,female,6,6,no,,,no,,yes,no
+60871,6,30,female,4,4,no,,,no,,yes,no
+61045,7,30,female,8,2,no,,,no,,yes,no
+61079,7,30,female,5,3,no,,,no,,yes,no
+61067,7,30,female,3,3,no,,,no,,yes,no
+61071,7,30,female,5,2,no,,,no,,yes,no
+61128,8,30,female,5,4,no,,,no,,yes,no
+61162,8,30,female,8,2,no,,,no,,yes,no
+61293,8,30,female,6,6,no,,,no,,yes,no
+61442,9,30,female,5,5,no,,,no,,yes,no
+61714,10,30,female,15,2,no,,,no,,yes,no
+61802,10,30,female,5,4,no,,,no,,yes,no
+61838,10,30,female,6,2,no,,,no,,yes,no
+61968,10,30,female,8,3,no,,,no,,yes,no
+61978,10,30,female,5,2,no,,,no,,yes,no
+61540,9,30,male,3,1,no,,,no,,yes,no
+61810,10,30,male,3,3,no,,,no,,yes,no
+63039,10,30,male,6,3,no,,,no,,yes,no
+61428,9,31,male,10,3,yes,3 8 9,?50,yes,11-49,yes,no
+60787,6,31,female,5,3,no,,,yes,6-10,yes,no
+61371,8,31,female,7,7,no,,,yes,?5,yes,no
+61895,10,31,female,3,3,no,,,yes,?5,yes,no
+60489,3,31,male,6,4,yes,8 9,?10,no,,yes,no
+60172,2,31,female,12,3,no,,,no,,yes,no
+60441,3,31,female,4,4,no,,,no,,yes,no
+60499,3,31,female,8,2,no,,,no,,yes,no
+60729,4,31,female,6,3,no,,,no,,yes,no
+61094,7,31,female,10,5,no,,,no,,yes,no
+61120,8,31,female,4,3,no,,,no,,yes,no
+61115,8,31,female,5,3,no,,,no,,yes,no
+61450,9,31,female,4,2,no,,,no,,yes,no
+61755,10,31,female,8,2,no,,,no,,yes,no
+61917,10,31,female,6,3,no,,,no,,yes,no
+61738,10,31,male,3,3,no,,,no,,yes,no
+61317,8,32,female,6,3,no,,,yes,?5,yes,no
+63070,10,32,female,2,2,no,,,yes,?5,yes,no
+61107,8,32,female,12,6,yes,3,11-49,no,,yes,no
+60204,2,32,female,10,3,no,,,no,,yes,yes
+60297,3,32,female,4,4,no,,,no,,yes,no
+60416,3,32,female,5,2,no,,,no,,yes,no
+60584,4,32,female,6,5,no,,,no,,yes,no
+60678,4,32,female,8,2,no,,,no,,yes,no
+60848,6,32,female,10,5,no,,,no,,yes,no
+60859,6,32,female,3,3,no,,,no,,yes,no
+61352,8,32,female,5,5,no,,,no,,no,no
+61375,8,32,female,3,3,no,,,no,,yes,no
+61547,9,32,female,4,2,no,,,no,,yes,no
+61881,10,32,female,6,3,no,,,no,,yes,no
+61915,10,32,female,8,3,no,,,no,,yes,no
+61926,10,32,female,7,3,no,,,no,,yes,no
+61991,10,32,female,7,2,no,,,no,,yes,no
+63049,10,32,female,6,2,no,,,no,,yes,no
+60819,6,32,male,5,3,no,,,no,,yes,no
+60870,6,32,male,4,4,no,,,no,,yes,no
+61746,10,32,male,5,5,no,,,no,,yes,no
+61927,10,32,male,7,3,no,,,no,,yes,no
+61400,8,33,female,6,6,yes,8 9,?10,yes,6-10,yes,no
+61136,8,33,female,3,2,no,,,yes,?5,yes,no
+61445,9,33,female,4,2,yes,8 9,11-49,no,,yes,no
+60749,4,33,male,11,6,yes,8 9,?10,no,,yes,no
+60257,2,33,female,4,2,no,,,no,,no,no
+60482,3,33,female,5,5,no,,,no,,yes,no
+60769,5,33,female,5,2,no,,,no,,yes,no
+60813,6,33,female,7,3,no,,,no,,yes,no
+61282,8,33,female,7,2,no,,,no,,yes,no
+61391,8,33,female,5,2,no,,,no,,yes,no
+61433,9,33,female,7,6,no,,,no,,yes,no
+61768,10,33,female,4,2,no,,,no,,yes,no
+61794,10,33,female,5,5,no,,,no,,yes,no
+61817,10,33,female,10,5,no,,,no,,yes,no
+63054,10,33,female,6,2,no,,,no,,yes,no
+60067,1,33,male,1,1,no,,,no,,yes,no
+60394,3,33,male,11,2,no,,,no,,yes,no
+60793,6,33,male,5,2,no,,,no,,yes,no
+61176,8,34,female,5,3,yes,4 5,11-49,yes,11-49,yes,no
+61598,9,34,female,5,2,no,,,yes,?5,yes,no
+60119,1,34,female,4,2,no,,,no,,no,no
+60375,3,34,female,5,2,no,,,no,,yes,no
+60381,3,34,female,6,2,no,,,no,,yes,no
+60437,3,34,female,6,2,no,,,no,,yes,no
+60465,3,34,female,4,4,no,,,no,,yes,no
+60685,4,34,female,8,2,no,,,no,,yes,no
+60765,5,34,female,6,3,no,,,no,,yes,no
+61000,7,34,female,4,4,no,,,no,,yes,no
+61247,8,34,female,6,3,no,,,no,,yes,no
+61388,8,34,female,6,6,no,,,no,,yes,no
+61568,9,34,female,6,3,no,,,no,,yes,no
+61774,10,34,female,5,4,no,,,no,,yes,no
+61866,10,34,female,5,5,no,,,no,,yes,no
+61920,10,34,female,5,2,no,,,no,,yes,no
+61506,9,34,male,2,2,no,,,no,,yes,no
+61751,10,35,male,6,5,yes,8 9,?10,yes,?5,yes,no
+60363,3,35,female,3,3,no,,,yes,6-10,yes,no
+60282,2,35,female,4,2,no,,,yes,?5,no,no
+60082,1,35,female,6,4,no,,,no,,yes,no
+60304,3,35,female,6,6,no,,,no,,yes,no
+60525,4,35,female,13,3,no,,,no,,yes,no
+60593,4,35,female,7,4,no,,,no,,yes,no
+60665,4,35,female,5,4,no,,,no,,yes,no
+61195,8,35,female,5,4,no,,,no,,yes,no
+61189,8,35,female,8,4,no,,,no,,yes,no
+61208,8,35,female,6,6,no,,,no,,yes,no
+61357,8,35,female,5,3,no,,,no,,yes,no
+61557,9,35,female,6,2,no,,,no,,yes,no
+60311,3,35,male,4,2,no,,,no,,yes,no
+61403,8,35,male,5,5,no,,,no,,yes,no
+61441,9,35,male,5,5,no,,,no,,yes,no
+61937,10,35,male,5,3,no,,,no,,yes,no
+60909,6,36,female,12,3,no,,,yes,?5,yes,no
+61807,10,36,female,6,2,no,,,yes,?5,yes,no
+60272,2,36,female,4,4,yes,8,11-49,no,,yes,no
+60111,1,36,female,2,2,yes,8 9,?10,no,,yes,no
+61408,8,36,female,6,2,yes,8 9,?10,no,,yes,no
+60154,1,36,female,6,3,no,,,no,,yes,no
+60160,1,36,female,4,2,no,,,no,,yes,no
+60548,4,36,female,4,3,no,,,no,,yes,no
+60651,4,36,female,10,10,no,,,no,,yes,no
+60772,5,36,female,4,4,no,,,no,,yes,no
+60785,6,36,female,2,2,no,,,no,,yes,no
+60967,6,36,female,8,3,no,,,no,,yes,no
+61142,8,36,female,3,2,no,,,no,,yes,no
+61212,8,36,female,6,2,no,,,no,,no,no
+61474,9,36,female,5,5,no,,,no,,yes,no
+61628,9,36,female,6,3,no,,,no,,no,no
+61660,9,36,female,6,2,no,,,no,,yes,no
+61843,10,36,female,4,4,no,,,no,,yes,no
+61885,10,36,female,2,2,no,,,no,,yes,no
+63087,10,36,female,6,3,no,,,no,,yes,no
+60464,3,36,male,4,4,no,,,no,,yes,no
+61548,9,36,male,4,2,no,,,no,,yes,no
+61736,10,37,male,7,2,yes,8 9,11-49,yes,?5,yes,no
+60912,6,37,female,11,3,no,,,yes,?5,yes,no
+61337,8,37,female,5,4,no,,,yes,?5,yes,no
+60003,1,37,female,6,3,yes,2 3,11-49,no,,no,no
+60341,3,37,female,7,2,yes,8 9,?10,no,,yes,no
+60053,1,37,female,5,3,no,,,no,,yes,no
+60221,2,37,female,4,2,no,,,no,,no,no
+60318,2,37,female,8,4,no,,,no,,yes,no
+61273,8,37,female,3,3,no,,,no,,yes,no
+61410,8,37,female,5,2,no,,,no,,no,no
+61421,8,37,female,8,4,no,,,no,,no,no
+61854,10,37,female,7,3,no,,,no,,yes,no
+63015,10,37,female,3,2,no,,,no,,yes,no
+60017,1,37,male,3,2,no,,,no,,yes,no
+60184,2,37,male,5,2,no,,,no,,yes,no
+61588,9,37,male,2,2,no,,,no,,yes,no
+61469,9,38,female,4,2,yes,4 5 8 9,11-49,yes,11-49,yes,no
+60588,4,38,female,6,3,no,,,yes,?5,yes,no
+61330,8,38,female,7,3,no,,,yes,?5,yes,no
+61438,9,38,female,3,3,no,,,yes,?5,yes,no
+60983,6,38,male,9,3,no,,,yes,?5,yes,no
+60350,3,38,female,5,2,yes,5 8 9,11-49,no,,yes,no
+61415,8,38,male,6,2,yes,8 9,11-49,no,,yes,no
+60396,3,38,female,6,6,yes,4 5,?10,no,,yes,no
+61152,8,38,female,7,3,yes,3,?10,no,,yes,no
+60006,1,38,female,5,2,no,,,no,,no,no
+60057,1,38,female,4,4,no,,,no,,no,no
+60144,1,38,female,6,2,no,,,no,,yes,no
+60149,1,38,female,6,2,no,,,no,,yes,no
+60197,2,38,female,5,2,no,,,no,,yes,no
+60207,2,38,female,3,3,no,,,no,,no,no
+60422,3,38,female,6,4,no,,,no,,yes,no
+60569,4,38,female,5,2,no,,,no,,yes,no
+60874,6,38,female,7,2,no,,,no,,yes,no
+60927,6,38,female,5,2,no,,,no,,yes,no
+60942,6,38,female,3,3,no,,,no,,yes,no
+61029,7,38,female,7,2,no,,,no,,yes,no
+61263,8,38,female,6,3,no,,,no,,yes,no
+61276,8,38,female,5,5,no,,,no,,no,no
+61334,8,38,female,7,6,no,,,no,,yes,no
+61499,9,38,female,6,3,no,,,no,,yes,no
+61589,9,38,female,2,2,no,,,no,,yes,no
+61586,9,38,female,5,2,no,,,no,,yes,no
+61613,9,38,female,4,4,no,,,no,,yes,no
+61676,9,38,female,9,3,no,,,no,,yes,no
+61730,10,38,female,4,3,no,,,no,,yes,no
+61789,10,38,female,9,3,no,,,no,,no,no
+60076,1,38,male,4,4,no,,,no,,no,no
+60337,3,38,male,4,4,no,,,no,,yes,no
+61125,8,38,male,5,5,no,,,no,,yes,no
+61321,8,38,male,8,4,no,,,no,,yes,no
+61484,9,38,male,4,4,no,,,no,,yes,no
+61446,9,39,male,4,2,yes,8,?10,yes,6-10,yes,no
+61354,8,39,male,5,3,no,,,yes,6-10,yes,no
+61923,10,39,male,7,3,no,,,yes,6-10,yes,no
+60725,4,39,female,2,2,no,,,yes,?5,yes,no
+61963,10,39,male,9,4,no,,,yes,?5,yes,no
+61347,8,39,female,6,2,yes,8 9,11-49,no,,yes,no
+60035,1,39,female,6,3,no,,,no,,yes,no
+60240,2,39,female,3,3,no,,,no,,yes,no
+60545,4,39,female,5,4,no,,,no,,yes,no
+60551,4,39,female,3,3,no,,,no,,yes,no
+60752,5,39,female,4,2,no,,,no,,yes,no
+61022,7,39,female,6,2,no,,,no,,yes,no
+61654,9,39,female,5,2,no,,,no,,no,no
+61693,9,39,female,5,3,no,,,no,,yes,no
+61780,10,39,female,8,7,no,,,no,,yes,no
+61831,10,39,female,5,5,no,,,no,,yes,no
+63042,10,39,female,4,4,no,,,no,,yes,no
+60409,3,39,male,3,3,no,,,no,,yes,no
+61655,9,39,male,5,2,no,,,no,,yes,no
+61818,10,39,male,10,5,no,,,no,,yes,no
+61503,9,40,male,4,4,yes,8 9,?10,yes,?5,no,no
+60078,1,40,female,3,2,no,,,yes,?5,no,no
+60672,4,40,female,3,2,no,,,yes,?5,yes,no
+61675,9,40,male,9,3,no,,,yes,?5,yes,no
+61709,9,40,male,7,2,no,,,yes,?5,yes,no
+60214,2,40,male,4,2,yes,5,11-49,no,,no,no
+60575,4,40,female,5,2,yes,8 9,?10,no,,yes,no
+60199,2,40,female,3,3,no,,,no,,yes,no
+60357,3,40,female,6,2,no,,,no,,yes,no
+60453,3,40,female,8,4,no,,,no,,yes,no
+60630,4,40,female,4,4,no,,,no,,no,no
+60700,4,40,female,10,4,no,,,no,,no,no
+60809,6,40,female,6,3,no,,,no,,yes,no
+60890,6,40,female,7,7,no,,,no,,yes,no
+60917,6,40,female,7,2,no,,,no,,yes,no
+60921,6,40,female,5,5,no,,,no,,yes,no
+61033,7,40,female,7,3,no,,,no,,yes,no
+61117,8,40,female,6,3,no,,,no,,yes,no
+61424,8,40,female,7,3,no,,,no,,yes,no
+61572,9,40,female,4,4,no,,,no,,yes,no
+60349,3,40,male,5,2,no,,,no,,yes,no
+60380,3,40,male,6,2,no,,,no,,yes,no
+60458,3,40,male,5,2,no,,,no,,yes,no
+60595,4,40,male,2,2,no,,,no,,yes,no
+61473,9,40,male,5,5,no,,,no,,yes,no
+61977,10,40,male,7,3,no,,,no,,yes,no
+63030,10,40,male,8,4,no,,,no,,yes,no
+60136,1,41,female,4,2,yes,5 9,11-49,yes,?5,yes,no
+60417,3,41,male,5,2,no,,,yes,?5,yes,no
+60098,1,41,female,9,9,yes,5 9,11-49,no,,yes,no
+60107,1,41,female,4,2,no,,,no,,yes,no
+60116,1,41,female,3,2,no,,,no,,yes,no
+60642,4,41,female,8,2,no,,,no,,no,yes
+61531,9,41,female,4,2,no,,,no,,yes,no
+61637,9,41,female,5,5,no,,,no,,yes,no
+61708,9,41,female,7,2,no,,,no,,yes,no
+61712,10,41,female,9,2,no,,,no,,yes,no
+61587,9,41,male,5,2,no,,,no,,yes,no
+60212,2,42,female,5,2,no,,,yes,?5,yes,no
+63079,10,42,male,5,4,no,,,yes,?5,no,no
+60069,1,42,female,4,4,no,,,no,,yes,no
+60092,1,42,female,8,4,no,,,no,,yes,no
+60100,1,42,female,3,3,no,,,no,,yes,no
+60233,2,42,female,7,7,no,,,no,,yes,no
+60252,2,42,female,4,2,no,,,no,,yes,no
+60714,4,42,female,6,5,no,,,no,,yes,no
+60894,6,42,female,3,3,no,,,no,,yes,no
+60977,6,42,female,6,3,no,,,no,,yes,no
+61134,8,42,female,8,2,no,,,no,,yes,no
+61156,8,42,female,8,2,no,,,no,,yes,no
+61541,9,42,female,3,2,no,,,no,,yes,no
+61762,10,42,female,8,4,no,,,no,,yes,no
+63052,10,42,female,6,3,no,,,no,,yes,no
+63045,10,42,female,7,3,no,,,no,,yes,no
+63078,10,42,female,4,3,no,,,no,,yes,no
+60530,4,42,male,4,4,no,,,no,,yes,no
+60570,4,42,male,5,2,no,,,no,,yes,no
+61303,8,42,male,6,2,no,,,no,,yes,no
+61610,9,42,male,5,4,no,,,no,,yes,no
+61731,10,42,male,4,3,no,,,no,,yes,no
+60974,6,43,female,8,2,no,,,yes,?5,yes,no
+61231,8,43,female,6,3,no,,,yes,?5,yes,no
+60521,4,43,female,6,3,no,,,no,,yes,no
+60526,4,43,female,1,1,no,,,no,,yes,no
+60564,4,43,female,8,4,no,,,no,,yes,yes
+60986,6,43,female,7,2,no,,,no,,yes,no
+61604,9,43,female,7,3,no,,,no,,no,no
+60798,6,43,male,5,3,no,,,no,,yes,no
+61571,9,43,male,4,4,no,,,no,,no,no
+61832,10,43,male,5,5,no,,,no,,yes,no
+60368,3,44,female,8,4,no,,,no,,no,no
+60624,4,44,female,4,2,no,,,no,,yes,no
+60684,4,44,female,8,2,no,,,no,,yes,no
+60946,6,44,female,4,2,no,,,no,,yes,no
+61059,7,44,female,10,3,no,,,no,,yes,no
+61530,9,44,female,11,2,no,,,no,,yes,no
+61621,9,44,female,4,4,no,,,no,,yes,no
+61646,9,44,male,4,2,no,,,no,,yes,no
+60374,3,45,male,5,2,no,,,yes,?5,yes,no
+60991,7,45,female,9,4,yes,4 5 8 9,11-49,no,,yes,no
+61003,7,45,female,6,2,yes,8 9,?10,no,,yes,no
+60047,1,45,female,8,3,no,,,no,,yes,no
+60308,3,45,female,5,3,no,,,no,,yes,no
+60817,6,45,female,8,2,no,,,no,,yes,no
+61144,8,45,female,3,2,no,,,no,,yes,no
+61240,8,45,female,4,2,no,,,no,,yes,no
+61359,8,45,female,4,4,no,,,no,,yes,no
+61512,9,45,female,7,2,no,,,no,,yes,no
+61534,9,45,female,6,3,no,,,no,,no,no
+61577,9,45,female,3,3,no,,,no,,yes,no
+61735,10,45,female,5,2,no,,,no,,yes,no
+60610,4,45,male,3,3,no,,,no,,yes,no
+61556,9,46,male,6,2,no,,,yes,6-10,yes,no
+60189,2,46,female,5,3,no,,,yes,?5,yes,no
+61893,10,46,female,5,5,no,,,yes,?5,no,no
+61703,9,46,female,8,3,yes,3 8 9,11-49,no,,yes,no
+60025,1,46,female,6,2,no,,,no,,yes,no
+61167,8,46,female,9,2,no,,,no,,yes,no
+61199,8,46,female,8,3,no,,,no,,yes,no
+61305,8,46,female,30,10,no,,,no,,yes,no
+61482,9,46,female,5,2,no,,,no,,yes,no
+61996,10,46,female,5,2,no,,,no,,yes,no
+63033,10,46,female,4,4,no,,,no,,yes,no
+61097,7,46,male,10,4,no,,,no,,no,no
+61781,10,46,male,8,7,no,,,no,,yes,no
+61638,9,47,male,7,3,no,,,yes,?5,no,no
+60461,3,47,male,8,2,yes,3,11-49,no,,yes,no
+60169,2,47,female,5,5,no,,,no,,yes,no
+60280,2,47,female,4,4,no,,,no,,yes,no
+60263,2,47,female,6,3,no,,,no,,no,no
+61219,8,47,female,4,3,no,,,no,,yes,no
+61617,9,47,female,5,2,no,,,no,,yes,yes
+60173,2,47,male,6,2,no,,,no,,yes,no
+61877,10,48,female,3,2,yes,8 9,?10,yes,?5,yes,no
+60828,6,48,female,7,4,no,,,yes,?5,yes,no
+61903,10,48,male,1,1,no,,,yes,?5,yes,no
+60009,1,48,female,7,4,no,,,no,,yes,no
+60141,1,48,female,11,6,no,,,no,,yes,no
+60869,6,48,female,7,2,no,,,no,,yes,no
+61698,9,48,female,4,2,no,,,no,,yes,no
+61930,10,48,female,9,4,no,,,no,,yes,no
+62002,10,48,female,5,3,no,,,no,,yes,no
+63092,10,48,female,6,4,no,,,no,,yes,no
+60046,1,48,male,8,3,no,,,no,,yes,no
+61622,9,48,male,4,4,no,,,no,,yes,no
+61689,9,48,male,6,2,no,,,no,,yes,no
+60894,5,49,male,5,4,yes,3 5,?10,no,,no,yes
+61661,9,49,male,5,2,yes,8 9,?10,no,,yes,no
+60157,1,49,female,6,2,no,,,no,,yes,no
+60795,6,49,female,10,3,no,,,no,,yes,no
+60997,7,49,female,1,1,no,,,no,,yes,no
+61131,8,49,female,12,4,no,,,no,,yes,no
+61312,8,49,female,5,1,no,,,no,,yes,no
+61823,10,49,female,7,3,no,,,no,,yes,no
+61947,10,49,female,4,3,no,,,no,,yes,no
+61173,8,49,male,5,2,no,,,no,,yes,no
+61661,9,49,male,6,2,no,,,no,,yes,no
+61122,8,50,female,5,2,yes,8 9,11-49,no,,yes,no
+60066,1,50,female,4,4,no,,,no,,yes,no
+60104,1,50,female,4,1,no,,,no,,yes,no
+60209,2,50,female,8,3,no,,,no,,yes,yes
+60266,2,50,female,9,3,no,,,no,,yes,no
+60246,2,50,female,10,3,no,,,no,,yes,no
+60292,2,50,female,5,3,no,,,no,,no,no
+60428,3,50,female,10,3,no,,,no,,yes,no
+60804,6,50,female,6,3,no,,,no,,yes,no
+61065,7,50,female,7,3,no,,,no,,yes,no
+61416,8,50,female,8,4,no,,,no,,yes,no
+61513,9,50,male,4,1,no,,,no,,no,yes
+61992,10,51,female,4,2,yes,8 9,11-49,yes,6-10,no,no
+60434,3,51,female,7,7,no,,,no,,yes,no
+60709,4,51,female,12,4,no,,,no,,yes,no
+60993,7,51,female,10,4,no,,,no,,yes,no
+61270,8,51,female,6,4,no,,,no,,yes,no
+61726,10,51,female,5,2,no,,,no,,yes,no
+63065,10,51,female,5,3,no,,,no,,yes,no
+60205,2,51,male,3,3,no,,,no,,no,no
+61618,9,51,male,7,2,no,,,no,,no,no
+61965,10,51,male,2,2,no,,,no,,yes,no
+60321,2,52,female,5,5,no,,,no,,yes,no
+60299,3,52,female,4,3,no,,,no,,no,no
+60715,4,52,female,12,4,no,,,no,,yes,no
+60802,6,52,female,4,4,no,,,no,,yes,no
+60901,6,52,female,4,3,no,,,no,,yes,no
+60701,4,52,male,10,4,no,,,no,,no,no
+61383,8,53,female,12,3,yes,8 9,11-49,yes,6-10,yes,no
+60262,2,53,female,13,2,no,,,yes,?5,yes,no
+60984,6,53,male,4,4,yes,8 9,11-49,no,,yes,no
+60579,4,53,female,6,3,no,,,no,,yes,no
+60851,6,53,female,3,3,no,,,no,,yes,no
+60988,7,53,female,2,2,no,,,no,,yes,no
+61493,9,53,female,5,3,no,,,no,,yes,no
+61521,9,53,female,10,3,no,,,no,,yes,no
+61575,9,53,female,6,3,no,,,no,,yes,no
+61593,9,53,female,17,5,no,,,no,,yes,no
+61935,10,53,female,4,3,no,,,no,,yes,no
+63088,10,53,female,2,2,no,,,no,,yes,no
+61078,7,53,male,5,3,no,,,no,,yes,no
+61890,10,53,male,2,2,no,,,no,,yes,no
+60018,1,54,female,3,2,no,,,no,,no,no
+60132,1,54,female,4,4,no,,,no,,yes,no
+60688,4,54,female,3,2,no,,,no,,yes,no
+60334,2,55,female,6,2,no,,,yes,?5,yes,no
+60493,3,55,female,3,3,no,,,yes,?5,yes,no
+60470,3,55,female,5,2,no,,,yes,?5,yes,no
+61111,8,55,female,7,4,yes,3,?10,no,,yes,no
+60261,2,55,female,4,2,no,,,no,,yes,no
+60403,3,55,female,5,5,no,,,no,,yes,no
+60641,4,55,female,8,2,no,,,no,,yes,no
+60866,6,55,female,11,4,no,,,no,,yes,no
+61523,9,55,female,4,2,no,,,no,,yes,no
+61828,10,55,female,8,4,no,,,no,,yes,no
+63059,10,55,female,8,3,no,,,no,,yes,no
+60367,3,55,male,4,2,no,,,no,,yes,no
+60427,3,55,male,10,3,no,,,no,,no,no
+61531,9,55,male,11,2,no,,,no,,yes,no
+61632,9,55,male,4,3,no,,,no,,no,no
+61684,9,56,female,10,4,yes,8 9,11-49,yes,6-10,yes,no
+60574,4,56,male,5,2,yes,8 9,11-49,yes,6-10,yes,no
+61580,9,56,female,4,4,yes,8 9,11-49,yes,?5,no,no
+61667,9,56,female,6,2,no,,,yes,?5,yes,no
+61096,7,56,female,7,3,no,,,no,,yes,no
+60949,6,56,male,7,3,no,,,no,,yes,no
+61727,10,56,male,5,2,no,,,no,,yes,no
+60533,4,57,female,3,3,no,,,no,,yes,no
+60686,4,57,female,10,4,no,,,no,,yes,no
+61052,7,57,female,12,2,no,,,no,,yes,no
+61238,8,57,female,3,3,no,,,no,,yes,no
+63063,10,57,female,8,4,no,,,no,,yes,no
+61524,9,57,male,4,2,no,,,no,,yes,no
+61642,9,58,male,6,3,no,,,yes,?5,yes,no
+60475,3,58,female,5,4,no,,,no,,yes,no
+60679,4,58,female,8,2,no,,,no,,yes,no
+60843,6,58,female,6,6,no,,,no,,yes,no
+61765,10,58,female,4,2,no,,,no,,yes,no
+61962,10,58,female,9,4,no,,,no,,yes,no
+61667,9,58,male,6,2,no,,,no,,yes,no
+61631,9,59,female,4,3,no,,,yes,?5,no,no
+60682,4,59,female,3,3,no,,,no,,yes,no
+61104,8,59,female,9,3,no,,,no,,yes,no
+61490,9,59,female,4,3,no,,,no,,yes,no
+61932,10,60,male,4,3,no,,,yes,?5,no,no
+60538,4,60,female,4,4,no,,,no,,yes,no
+60980,6,60,female,5,2,no,,,no,,yes,no
+60995,7,60,female,5,3,no,,,no,,yes,no
+61481,9,60,male,5,2,no,,,no,,yes,no
+61605,9,60,male,7,3,no,,,no,,yes,no
+60386,3,62,female,11,2,yes,8 9,?10,no,,no,no
+60603,4,62,female,10,5,no,,,no,,yes,no
+60650,4,62,female,10,10,no,,,no,,yes,no
+60959,6,62,female,5,5,no,,,no,,yes,no
+60633,4,63,female,5,2,no,,,no,,no,no
+61641,9,63,female,6,3,no,,,no,,yes,no
+61959,10,63,female,9,4,no,,,no,,yes,no
+62000,10,63,female,9,2,no,,,no,,yes,no
+60385,3,63,male,11,2,no,,,no,,yes,no
+61520,9,63,male,10,3,no,,,no,,no,no
+61539,9,64,female,9,2,yes,8 9,?10,no,,yes,no
+60013,1,64,female,5,3,no,,,no,,yes,no
+60061,1,64,female,11,2,no,,,no,,yes,no
+60330,2,64,female,7,2,no,,,no,,no,no
+60370,3,64,female,2,2,no,,,no,,yes,no
+60996,7,64,male,8,8,no,,,no,,yes,no
+61447,9,64,male,2,2,no,,,no,,no,no
+61699,9,64,male,4,2,no,,,no,,yes,no
+61581,9,65,male,4,4,no,,,no,,yes,no
+60933,6,66,female,7,3,yes,3 7 9,11-49,no,,no,no
+60172,2,66,female,5,5,no,,,no,,yes,no
+61570,9,66,female,4,4,no,,,no,,yes,no
+60313,2,66,male,2,2,no,,,no,,yes,no
+61957,10,66,male,9,3,no,,,no,,yes,no
+61907,10,67,female,3,2,no,,,yes,?5,yes,no
+60248,2,67,male,7,3,no,,,yes,?5,yes,yes
+60541,4,67,male,4,4,no,,,yes,?5,yes,no
+60711,4,67,female,12,4,no,,,no,,yes,no
+61999,10,68,female,3,3,no,,,no,,yes,no
+60781,5,69,female,10,2,no,,,no,,yes,no
+60635,4,70,male,5,2,yes,8 9,?10,no,,no,no
+60608,4,70,male,10,5,yes,3,?10,no,,yes,no
+61740,10,70,female,9,2,no,,,no,,yes,no
+60528,4,70,male,1,1,no,,,no,,yes,no
+60527,4,71,female,6,3,no,,,no,,yes,yes
+61702,9,72,male,8,4,no,,,yes,6-10,yes,no
+61475,9,72,female,9,2,no,,,no,,yes,no
+63093,10,72,female,5,2,no,,,no,,yes,no
+63008,10,73,male,8,4,no,,,yes,?5,yes,no
+61542,9,74,female,3,2,no,,,no,,yes,no
+61476,9,74,male,9,2,no,,,no,,yes,no
+61538,9,74,male,9,2,no,,,no,,yes,no
+61501,9,75,female,10,3,yes,8 9,11-49,no,,no,no
+63002,10,76,male,2,2,no,,,yes,?5,yes,no
+61997,10,76,male,3,3,no,,,no,,no,no
+60637,4,77,female,8,1,no,,,no,,no,no
+60073,1,78,male,7,4,no,,,yes,?5,yes,no
+61629,9,78,female,4,3,no,,,no,,no,no
+63013,10,78,male,10,4,no,,,no,,yes,no
+63090,10,78,male,5,4,no,,,no,,yes,no
+61884,10,79,female,7,7,no,,,no,,yes,no
+60501,4,79,male,3,3,no,,,no,,yes,no
+61500,9,82,male,10,3,yes,9,11-49,no,,yes,no
+60811,6,83,female,6,3,no,,,no,,yes,no
